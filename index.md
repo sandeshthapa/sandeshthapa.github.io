@@ -8,7 +8,7 @@ keywords: robotics, controls, uav, flight controls, aerial robotics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Thapa_Sandesh_CV.pdf">cv</a></li>
           <li><a href="https://github.com/sandeshthapa">github</a></li>
           <li><a href="https://sthapa.org/blog">blog</a></li>
           <li><a href="https://twitter.com/sthapa4">@kwbroman</a></li>
