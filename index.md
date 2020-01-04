@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: Karl Broman
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
-keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+title: Sandesh Thapa
+description: Sandesh Thapa is Flight Controls Software Engineer for Autonomy in The Drone Racing League
+keywords: robotics, controls, uav, flight controls, aerial robotics
 ---
 
 <div class="navbar">
