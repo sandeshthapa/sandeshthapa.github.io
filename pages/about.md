@@ -4,7 +4,7 @@ title: about
 description: Sandesh Thapa is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
 ---
 
-Karl Broman is Professor in the
+Sandesh Thapa is Professor in the
 [Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
 at the University of Wisconsin&ndash;Madison;
 research in statistical genetics; developer of
