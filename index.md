@@ -4,7 +4,6 @@ title: Sandesh Thapa
 description: Sandesh Thapa is Flight Controls Software Engineer for Autonomy in The Drone Racing League
 keywords: robotics, controls, uav, flight controls, aerial robotics
 ---
-
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
