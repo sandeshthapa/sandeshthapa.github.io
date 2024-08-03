@@ -52,10 +52,6 @@ In general I'm interested in both deep theoretical foundations and practical app
 ## Planning of UAV  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/agyWXUrk49U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
-
 ### Path Planning and Control of AV 
 
 
@@ -69,6 +65,7 @@ In general I'm interested in both deep theoretical foundations and practical app
 
 # Work experience
 ### Technical Lead, Controls Engineering - Dec 2023 - Present
+  * Amogy INC, Brookyln, NY 
   * Lead control engineering across PD and R&D with 10+ Engineers 
   * Lead Controls Algorithms Development, State Machine Development, HMI Development 
   * PID Control, Hybrid Control, Filtering, State Transitions and Autonomy 
@@ -85,6 +82,7 @@ In general I'm interested in both deep theoretical foundations and practical app
   * Lead the Control Hardware Selection that satisfies the functional safety 
   * Advise and mentor junior controls, hil, embedded engineer 
   * Hardware in the Loop Development
+
 ### Senior Controls System Engineer  - Aug 2022- Dec 2023 
   * Amogy INC, Brookyln, NY 
   * Lead control engineering across PD and R&D with 10+ Engineers 
