@@ -49,9 +49,23 @@ In general I'm interested in both deep theoretical foundations and practical app
 
 
 # Work experience
-### Technical Lead, Controls System - May 2023 - Present
-### Lead Control System Engineer, Dec 2023 - Present
-
+### Technical Lead, Controls Engineering - Dec 2023 - Present
+  * Lead control engineering across PD and R&D with 10+ Engineers 
+  * Lead Controls Algorithms Development, State Machine Development, HMI Development 
+  * PID Control, Hybrid Control, Filtering, State Transitions and Autonomy 
+  * Developed novel PID Control Algorithms for trajectory tracking that reduce actuator chattering and account for sensor error accuracy. 
+  * Noise and filter design 
+  * Feedback control, Feed-forward control, state-dependent control 
+  * Robust fault management algorithm development
+  * HMI Development 
+  * Automated HMI development in C Programming
+  * Programming in Simulink, C/C++, Python 
+  * CAN, Ethernet TCP, Modbus TCP networking Development
+  * VCU, dSpace, Raspberry PI, MircoController, CANape
+  * Lead Controls Hardware, Architecture Development 
+  * Lead the Control Hardware Selection that satisfies the functional safety 
+  * Advise and mentor junior controls, hil, embedded engineer 
+  * Hardware in the Loop Development
 ### Senior Controls System Engineer  - Aug 2022- Dec 2023 
   * Amogy INC, Brookyln, NY 
   * Lead control engineering across PD and R&D with 10+ Engineers 
