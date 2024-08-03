@@ -22,6 +22,7 @@ I received my Masters in Mechanical and Aerospace Engineering at Oklahoma State 
 
 During my M.S. I worked on Aerial robotics and Control with focus on cooperative aerial manipulation and control of muti-agents. We published 3 peer-reviewed conference paper and 2 journal
 
+
 # Current Research Interest 
 
 My  interest lies in the intersection of control, planning, learning for autonomous systems. I’m interested in the balance between theoretical analysis and practical implementation on hardware systems in a multi-disciplinary environment. My overall goal is to be a full stack controls and robotics researcher using tools ranging from control design, autonomous planning, decision making and implementation on real-time hardware systems. 
@@ -39,6 +40,16 @@ In general I'm interested in both deep theoretical foundations and practical app
 - Aerial Robotics and Robot Autonomy 
 
 - Planning/Decision making under uncertainty 
+
+# Related Vidoes 
+## Control of UAV  
+[![Watch the video](https://youtu.be/agyWXUrk49U?si=-SiJrfXJV-F5ztR3)
+
+
+## Planning of UAV  
+
+### Path Planning and Control of AV 
+
 
 # Education
 ### B.S. in Mechanical Engineering, McNeese State University, 2015
