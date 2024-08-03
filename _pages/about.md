@@ -43,7 +43,7 @@ In general I'm interested in both deep theoretical foundations and practical app
 
 # Related Vidoes 
 ## Control of UAV  
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://www.youtube.com/watch?v=agyWXUrk49U)
 
 
 ## Planning of UAV  
@@ -90,7 +90,7 @@ In general I'm interested in both deep theoretical foundations and practical app
   * HMI Development 
   * Embedded Systems 
 
-###  SSenior Vehicles Motion Controls Engineer, Autonomous Vehicles - Jan 2021 - June 2022 
+###  Senior Vehicles Motion Controls Engineer, Autonomous Vehicles - Jan 2021 - June 2022 
   * Ford Motor Company, Dearborn, MI. 
   * Vehicle motion control for low speed controls and planning 
   
