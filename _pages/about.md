@@ -43,7 +43,7 @@ In general I'm interested in both deep theoretical foundations and practical app
 
 # Related Vidoes 
 ## Control of UAV  
-[![Watch the video](https://youtu.be/agyWXUrk49U?si=-SiJrfXJV-F5ztR3)
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 
 ## Planning of UAV  
