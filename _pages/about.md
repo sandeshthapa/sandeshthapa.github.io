@@ -41,12 +41,14 @@ In general I'm interested in both deep theoretical foundations and practical app
 
 - Planning/Decision making under uncertainty 
 
-# Related Vidoes 
+# Related Work
 ## Control of UAV  
-[![Watch the video](https://www.youtube.com/watch?v=agyWXUrk49U)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/agyWXUrk49U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Planning of UAV  
+
+
 
 ### Path Planning and Control of AV 
 
