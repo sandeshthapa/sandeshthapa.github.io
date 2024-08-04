@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- Tech Leand Controls Engineering, Robotics, Controls and Autonomy
+- Tech Lead Controls Engineering, Robotics, Controls and Autonomy
 - Languages: C/C++, MATLAB/Simulink, Stateflow, Python
 - Platforms: ROS, Windows, Linux, dSpace, MicroAutoBox II, Scalexio, CANape, CANalyzer, PX4-
 Autopilot, Jetson-TX2, UDP Ethernet , CANdb++, QGroundControl, PX4-SITL
