@@ -17,12 +17,11 @@ Autopilot, Jetson-TX2, UDP Ethernet , CANdb++, QGroundControl, PX4-SITL
 ## LQR Control of Quadrotor UAV 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eFBT57DQ0kM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Cooperative Control 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Pure Pursuit Based Control 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gJ1q_MxViCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Cooperative Control 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Planning of UAV  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/agyWXUrk49U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
