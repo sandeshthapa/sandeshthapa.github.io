@@ -11,8 +11,6 @@ redirect_from:
 
 I'm a Robotics Controls Engineer for autonomous vehicles and UAVS. I love designing intelligent control and planning algorithms from ground up using tools from control theory, optimization, vehicle dynamics, robotics, learning and planning. I'm interested in the intersection of theory and applications. I enjoy developing practical and safe algorithms and apply them to solve real problems in autonomous vehicle controls, flight controls, navigation, decision making, autonomy and robotics. I have developed, implemented and published various trajectory tracking control and planning and coordination algorithms for both mutli-rotors and mobile robots/vehicles using LQR, PID, MPC, Adaptive, Nonlinear, Path planning based on clothoids, differential flatness, splines and so on using C++, Python, ROS/Gazebo, MATLAB/Simulink both in simulation and real time system using PX4, dSpace, C++/ROS.
 
-I'm always willing to learn more about autonomous controls, planning and decision making and autonomy in general. If you have interesting ideas be it in autonomous flight controls or autonomous vehicles, feel free to shoot me a message or an email.
-
 - Robotics Controls Engineer: UAVS, Autonomous Vehicles, Robotics
 - Platform: multirotors, fixed wing uav, mobile robots, self-driving cars, autonomous vehicles
 - Software skills: C/C++, Python, ROS, MATLAB/Simulink, PX4, Gazebo, Git
