@@ -34,7 +34,7 @@ During my M.S. I worked on Aerial robotics and Control with focus on cooperative
 <iframe width="560" height="315" src="https://www.youtube.com/embed/agyWXUrk49U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Pure Pursuit Based Control 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ScN-rJQIC24" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gJ1q_MxViCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
