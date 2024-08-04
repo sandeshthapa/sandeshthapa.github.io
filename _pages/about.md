@@ -22,6 +22,21 @@ I received my Masters in Mechanical and Aerospace Engineering at Oklahoma State 
 
 During my M.S. I worked on Aerial robotics and Control with focus on cooperative aerial manipulation and control of muti-agents. We published 3 peer-reviewed conference paper and 2 journal
 
+# Related Work
+## LQR Control of Quadrotor UAV 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eFBT57DQ0kM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Cooperative Control 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Planning of UAV  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/agyWXUrk49U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Pure Pursuit Based Control 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ScN-rJQIC24 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 # Current Research Interest 
 
@@ -40,21 +55,6 @@ In general I'm interested in both deep theoretical foundations and practical app
 - Aerial Robotics and Robot Autonomy 
 
 - Planning/Decision making under uncertainty 
-
-# Related Work
-## LQR Control of Quadrotor UAV 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eFBT57DQ0kM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Cooperative Control 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-## Planning of UAV  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/agyWXUrk49U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Pure Pursuit Based Control 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ScN-rJQIC24 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 # Education
 ### B.S. in Mechanical Engineering, McNeese State University, 2015
