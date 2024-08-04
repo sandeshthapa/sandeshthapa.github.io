@@ -8,13 +8,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I'm a Robotics Controls Engineer for autonomous vehicles and UAVS. I love designing intelligent control and planning algorithms from ground up using tools from control theory, optimization, vehicle dynamics, robotics, learning and planning. I'm interested in the intersection of theory and applications. I enjoy developing practical and safe algorithms and apply them to solve real problems in autonomous vehicle controls, flight controls, navigation, decision making, autonomy and robotics. I have developed, implemented and published various trajectory tracking control and planning and coordination algorithms for both mutli-rotors and mobile robots/vehicles using LQR, PID, MPC, Adaptive, Nonlinear, Path planning based on clothoids, differential flatness, splines and so on using C++, Python, ROS/Gazebo, MATLAB/Simulink both in simulation and real time system using PX4, dSpace, C++/ROS.
-
-- Robotics Controls Engineer: UAVS, Autonomous Vehicles, Robotics
-- Platform: multirotors, fixed wing uav, mobile robots, self-driving cars, autonomous vehicles
-- Software skills: C/C++, Python, ROS, MATLAB/Simulink, PX4, Gazebo, Git
-
+- Tech Leand Controls Engineering, Robotics, Controls and Autonomy
+- Languages: C/C++, MATLAB/Simulink, Stateflow, Python
+- Platforms: ROS, Windows, Linux, dSpace, MicroAutoBox II, Scalexio, CANape, CANalyzer, PX4-
+Autopilot, Jetson-TX2, UDP Ethernet , CANdb++, QGroundControl, PX4-SITL
 
 # Related Work
 ## LQR Control of Quadrotor UAV 
@@ -31,8 +28,10 @@ I'm a Robotics Controls Engineer for autonomous vehicles and UAVS. I love design
 <iframe width="560" height="315" src="https://www.youtube.com/embed/agyWXUrk49U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Bio 
-I received my Masters in Mechanical and Aerospace Engineering at Oklahoma State University working under Dr. He Bai at the CoRAL Lab from Aug 2016 to Dec 2018.  
 
+I'm a Robotics Controls Engineer for autonomous vehicles and UAVS. I love designing intelligent control and planning algorithms from ground up using tools from control theory, optimization, vehicle dynamics, robotics, learning and planning. I'm interested in the intersection of theory and applications. I enjoy developing practical and safe algorithms and apply them to solve real problems in autonomous vehicle controls, flight controls, navigation, decision making, autonomy and robotics. I have developed, implemented and published various trajectory tracking control and planning and coordination algorithms for both mutli-rotors and mobile robots/vehicles using LQR, PID, MPC, Adaptive, Nonlinear, Path planning based on clothoids, differential flatness, splines and so on using C++, Python, ROS/Gazebo, MATLAB/Simulink both in simulation and real time system using PX4, dSpace, C++/ROS.
+
+I received my Masters in Mechanical and Aerospace Engineering at Oklahoma State University working under Dr. He Bai at the CoRAL Lab from Aug 2016 to Dec 2018. 
 During my M.S. I worked on Aerial robotics and Control with focus on cooperative aerial manipulation and control of muti-agents. We published 3 peer-reviewed conference paper and 2 journal
 
 # Current Research Interest 
