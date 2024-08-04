@@ -17,10 +17,6 @@ I'm always willing to learn more about autonomous controls, planning and decisio
 - Platform: multirotors, fixed wing uav, mobile robots, self-driving cars, autonomous vehicles
 - Software skills: C/C++, Python, ROS, MATLAB/Simulink, PX4, Gazebo, Git
 
-# Bio 
-I received my Masters in Mechanical and Aerospace Engineering at Oklahoma State University working under Dr. He Bai at the CoRAL Lab from Aug 2016 to Dec 2018.  
-
-During my M.S. I worked on Aerial robotics and Control with focus on cooperative aerial manipulation and control of muti-agents. We published 3 peer-reviewed conference paper and 2 journal
 
 # Related Work
 ## LQR Control of Quadrotor UAV 
@@ -36,6 +32,10 @@ During my M.S. I worked on Aerial robotics and Control with focus on cooperative
 ## Planning of UAV  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/agyWXUrk49U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# Bio 
+I received my Masters in Mechanical and Aerospace Engineering at Oklahoma State University working under Dr. He Bai at the CoRAL Lab from Aug 2016 to Dec 2018.  
+
+During my M.S. I worked on Aerial robotics and Control with focus on cooperative aerial manipulation and control of muti-agents. We published 3 peer-reviewed conference paper and 2 journal
 
 # Current Research Interest 
 
