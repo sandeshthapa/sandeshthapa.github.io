@@ -52,7 +52,8 @@ In general I'm interested in both deep theoretical foundations and practical app
 ## Planning of UAV  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/agyWXUrk49U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Path Planning and Control of AV 
+### Pure Pursuit Based Control 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ScN-rJQIC24 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Education
