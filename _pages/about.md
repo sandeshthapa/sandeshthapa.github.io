@@ -16,8 +16,9 @@ Autopilot, Jetson-TX2, UDP Ethernet , CANdb++, QGroundControl, PX4-SITL
 # Related Work
 ## LQR Control of Quadrotor UAV 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eFBT57DQ0kM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Vehicle Dynamics and Cruise Control 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/shorts/o9QoDVW0wFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/shorts/o9QoDVW0wFI?si=-c7C4MNgpJHZ0Kgi" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Pure Pursuit Based Control 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gJ1q_MxViCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
