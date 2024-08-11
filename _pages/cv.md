@@ -15,7 +15,7 @@ redirect_from:
   * Robotics & Controls 
 
 # Work experience
-## Senior Controls System Engineer  - Aug 2022- Present 
+## Senior Controls System Engineer  - Aug 2022- Dec 2023 
 ## Technical Lead, Controls System - May 2023 - Present
   * Amogy INC, Brookyln, NY 
   * Lead control engineering across PD and R&D with 10+ Engineers 
