@@ -22,15 +22,10 @@ Autopilot, Jetson-TX2, UDP Ethernet , CANdb++, QGroundControl, PX4-SITL
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Concurrent Learning Based Control and Estimation 
-https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning 
-#### Linear Velocity 
-![](https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/VelLoadB.png)
+![Winter run in Hoboken](../images/VelLoadB.png)
 
-#### Drag forces Estimation 
-![](https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/ThetacTildeB.png)
+![Drag forces Estimation ](../images/f1dTildeB.png)
 
-#### Contact force acting on the payload 
-![](https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/f1dTildeB.png)
 
 
 ## Vehicle Dynamics and Cruise Control 
