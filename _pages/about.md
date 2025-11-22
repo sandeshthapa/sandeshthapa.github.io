@@ -15,10 +15,38 @@ Autopilot, Jetson-TX2, UDP Ethernet , CANdb++, QGroundControl, PX4-SITL
 
 # Related Work
 
-## State Dependent LQR Control of Quadrotor UAV 
+## Autonomous Control of UAV 
+
+### State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
+Designed and implemented full state time varying LQR and implemented in real-time Gazebo and PX4
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/LQR_control.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Quadrotor UAV Cascaed PID Controll in PX4 
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/PX4_PID_Control.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Offboard Velocity Control 
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/offboard_velocity_px4_gazebo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Non-linear adaptive geometric Control 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eFBT57DQ0kM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Cooperative Control 
+
+### Trajetory Planning of UAV  
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/Minimum_Snap_Trajectory_Generation_Simulation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+## Cooperative Coontrol 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Concurrent Learning Based Control and Estimation 
@@ -35,16 +63,15 @@ Autopilot, Jetson-TX2, UDP Ethernet , CANdb++, QGroundControl, PX4-SITL
   Your browser does not support the video tag.
 </video>
 
-## Vehicle Dynamics and Cruise Control 
+## Vehicle Dynamics and Control 
+
+### 
 <iframe width="560" height="315" src="https://youtube.com/embed/zNQcil5uyoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Pure Pursuit Based Control 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gJ1q_MxViCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-## Planning of UAV  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/agyWXUrk49U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Bio 
 
