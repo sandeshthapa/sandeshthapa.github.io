@@ -22,10 +22,15 @@ Autopilot, Jetson-TX2, UDP Ethernet , CANdb++, QGroundControl, PX4-SITL
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Concurrent Learning Based Control and Estimation 
+
+### Drag Force Estimation 
 ![Winter run in Hoboken](../images/VelLoadB.png)
 
+### Contact force acting on the payload 
 ![Drag forces Estimation ](../images/f1dTildeB.png)
 
+### Simulation with time varying velocity 
+![Time-varying velocity](../images/LSS_2019_TimeVarVelocity.mp4)
 
 
 ## Vehicle Dynamics and Cruise Control 
