@@ -55,8 +55,6 @@ Part of M.S Research Work at Oklahoma State
 ### Aerial Manipulator Fight Test 
 <iframe width="560" height="315" src="https://youtu.be/vBqVEjUz4NM?si=W9LWRkBAhMmrHyCn" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 ## Concurrent Learning Based Control and Estimation 
 
 ### Drag Force Estimation 
@@ -73,8 +71,11 @@ Part of M.S Research Work at Oklahoma State
 
 ## Vehicle Dynamics and Control 
 
-### 
-<iframe width="560" height="315" src="https://youtube.com/embed/zNQcil5uyoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Vehicle Dynamics with Cruise Control and lateral control. 
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/Vehicle_Dynamics_and_Cruise_Control.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
 
 ## Pure Pursuit Based Control 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gJ1q_MxViCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
