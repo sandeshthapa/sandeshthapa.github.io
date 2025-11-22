@@ -17,7 +17,8 @@ Autopilot, Jetson-TX2, UDP Ethernet , CANdb++, QGroundControl, PX4-SITL
 
 I'm a Robotics Controls Engineer for autonomous vehicles and UAVS. I love designing intelligent control and planning algorithms from ground up using tools from control theory, optimization, vehicle dynamics, robotics, learning and planning. I'm interested in the intersection of theory and applications. I enjoy developing practical and safe algorithms and apply them to solve real problems in autonomous vehicle controls, flight controls, navigation, decision making, autonomy and robotics. I have developed, implemented and published various trajectory tracking control and planning and coordination algorithms for both mutli-rotors and mobile robots/vehicles using LQR, PID, MPC, Adaptive, Nonlinear, Path planning based on clothoids, differential flatness, splines and so on using C++, Python, ROS/Gazebo, MATLAB/Simulink both in simulation and real time system using PX4, dSpace, C++/ROS.
 
-I received my Masters in Mechanical and Aerospace Engineering at Oklahoma State University working under Dr. He Bai at the CoRAL Lab from Aug 2016 to Dec 2018. I worked very closely with Dr. Rushikesh Kam
+I received my Masters in Mechanical and Aerospace Engineering at Oklahoma State University working under Dr. He Bai at the CoRAL Lab from Aug 2016 to Dec 2018. I worked very closely with Dr. Rushikesh Kamalapurkar (currently at UF) and J.Á. Acosta at Universidad de Sevilla (Spain). 
+
 During my M.S. I worked on Aerial robotics and Control with focus on cooperative aerial manipulation and control of muti-agents. We published 3 peer-reviewed conference paper and 2 journal
 
 # Current Research Interest 
@@ -39,8 +40,13 @@ In general I'm interested in both deep theoretical foundations and practical app
 - Planning/Decision making under uncertainty 
 
 # Related Work
+
 ## LQR Control of Quadrotor UAV 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eFBT57DQ0kM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Cooperative Control 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Vehicle Dynamics and Cruise Control 
 <iframe width="560" height="315" src="https://youtube.com/embed/zNQcil5uyoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -48,8 +54,8 @@ In general I'm interested in both deep theoretical foundations and practical app
 ### Pure Pursuit Based Control 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gJ1q_MxViCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Cooperative Control 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Concurrent Learning Based Control and Estimation 
+https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning
 
 ## Planning of UAV  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/agyWXUrk49U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
