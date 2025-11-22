@@ -49,7 +49,7 @@ Part of M.S Research Work at Oklahoma State
 ### Cooperative Aerial Manipulation 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Aerial Manpulator Design
+### Aerial Manipulator Design
 <iframe width="560" height="315" src="https://youtu.be/lgTVWmbpyd0?si=N6hmdjtU_hZV2BW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Aerial Manipulator Fight Test 
