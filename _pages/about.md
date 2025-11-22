@@ -13,6 +13,13 @@ redirect_from:
 - Platforms: ROS, Windows, Linux, dSpace, MicroAutoBox II, Scalexio, CANape, CANalyzer, PX4-
 Autopilot, Jetson-TX2, UDP Ethernet , CANdb++, QGroundControl, PX4-SITL
 
+---
+
+## Table of Contents
+* Auto generated table of contents
+{:toc}
+
+---
 # Related Work
 
 ## Autonomous Control of UAV 
