@@ -49,11 +49,11 @@ Part of M.S Research Work at Oklahoma State
 ### Cooperative Aerial Manipulation 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Aerial Manipulator Design
-<iframe width="560" height="315" src="https://youtu.be/lgTVWmbpyd0?si=N6hmdjtU_hZV2BW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### Aerial Manipulator Design
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7CUKSTdc1d5ysa3B" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Aerial Manipulator Fight Test 
-<iframe width="560" height="315" src="https://youtu.be/vBqVEjUz4NM?si=W9LWRkBAhMmrHyCn" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Concurrent Learning Based Control and Estimation 
 
