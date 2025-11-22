@@ -30,8 +30,10 @@ Autopilot, Jetson-TX2, UDP Ethernet , CANdb++, QGroundControl, PX4-SITL
 ![Drag forces Estimation ](../images/f1dTildeB.png)
 
 ### Simulation with time varying velocity 
-![Time-varying velocity](../images/LSS_2019_TimeVarVelocity.mp4)
-
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/LSS_2019_TimeVarVelocity.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Vehicle Dynamics and Cruise Control 
 <iframe width="560" height="315" src="https://youtube.com/embed/zNQcil5uyoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
