@@ -10,8 +10,8 @@ redirect_from:
 ---
 - Robotics, Controls, Learning and Autonomy
 - Languages: C/C++, MATLAB/Simulink, Stateflow, Python
-- Platforms: ROS, Windows, Linux, dSpace, MicroAutoBox II, Scalexio, CANape, CANalyzer, PX4-
-Autopilot, Jetson-TX2, UDP Ethernet , CANdb++, QGroundControl, PX4-SITL
+- Platforms: ROS, dSpace, MicroAutoBox II, Rasberry PI, Jetson-TX2, VCU, ECU Scalexio, CANape, CANalyzer, PX4-
+Autopilot,  UDP Ethernet , CANdb++, QGroundControl, PX4-SITL
 
 ---
 
