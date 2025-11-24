@@ -22,38 +22,39 @@ Table of Contents
 {:toc}
 
 ---
-# Related Work
 
-## Autonomous Control of UAV 
+# Autonomous Control of UAV 
 
-#### State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
+### State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
 Designed and implemented full state time varying LQR and implemented in real-time Gazebo and PX4
+![LQR Control ](../images/LQR_Control%20.png)
+
 <video width="100%" controls autoplay loop muted>
   <source src="../images/LQR_control.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-#### Quadrotor UAV Cascaed PID Controll in PX4 
+### Quadrotor UAV Cascaed PID Controll in PX4 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/PX4_PID_Control.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-####  Offboard Velocity Control 
+###  Offboard Velocity Control 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/offboard_velocity_px4_gazebo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-#### Non-linear adaptive geometric Control 
+### Non-linear adaptive geometric Control 
 
-#### Trajetory Planning of UAV  
+### Trajetory Planning of UAV  
 <video width="100%" controls autoplay loop muted>
   <source src="../images/Minimum_Snap_Trajectory_Generation_Simulation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-## Cooperative Control and Manipulation 
+# Cooperative Control and Manipulation 
 Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU. 
 ### Cooperative Control of Uknown Payload, Adaptive Control and consensus control.  
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
@@ -64,7 +65,7 @@ Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU.
 </video>
 
 
-##### Aerial Manipulator Design
+#### Aerial Manipulator Design
 <div align="center">
   <iframe width="560" height="315" 
   src="https://www.youtube.com/embed/lgTVWmbpyd0" 
@@ -75,43 +76,55 @@ Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU.
   </iframe>
 </div>
 
-#### Aerial Manipulator Fight Test 
+### Aerial Manipulator Fight Test 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Concurrent Learning Based Control and Estimation 
+# Concurrent Learning Based Control and Estimation 
 Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag Force Estimation. Published in IEEE Control System Letters , 2019. Joint with Dr. Kamalapurkar at OSU, currently at UF. 
 
-### Drag Force Estimation 
+## Drag Force Estimation 
 ![Winter run in Hoboken](../images/VelLoadB.png)
 
-### Contact force acting on the payload 
+## Contact force acting on the payload 
 ![Drag forces Estimation ](../images/f1dTildeB.png)
 
-### Simulation with time varying velocity 
+## Simulation with time varying velocity 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/LSS_2019_TimeVarVelocity.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-## Autonomous Vehicle Planning and Control 
+# Autonomous Vehicle Planning and Control 
+![parallel parking ](../images/parallel_parking.png)
 
-#### Vehicle Dynamics with Cruise Control and lateral control. 
+### Path Planning Based on Clothiod. 
+
+![planning ](../images/planning.png)
+
+### Non-linear Rear Wheel Feedback Based Control 
+![parallel parking control ](../images/control.png)
+
+![parallel parking results](../images/results.png)
+
+### Vehicle Dynamics with Cruise Control and lateral control. 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/Vehicle_Dynamics_and_Cruise_Control.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
 
-#### Pure Pursuit Based Control 
+### Pure Pursuit Based Control 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/pure_pursuit.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
 
 
-#### Path Planning Based on Clothiod. 
 
-## Safety Embedded Control 
-<embed src="../images/piddesign.pdf" type="application/pdf" width="100%" height="800px" />
+# Safety Embedded Control 
+Safety Embedded PID Control for Robotics and Automation , Work in Progress. 
+
+![pid control](../images/pidcontrolexploded.png)
+
 
 # Bio 
 
