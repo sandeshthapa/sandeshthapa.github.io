@@ -141,45 +141,30 @@ In general I'm interested in both deep theoretical foundations and practical app
 
 
 # Education
-### B.S. in Mechanical Engineering, McNeese State University, 2015
-   * Mechanical Engineering 
-  
+
 ### M.S. in Mechanical & Aerospace Engineering, Oklahoma State University, 2018
    * Robotics & Controls 
 
+### B.S. in Mechanical Engineering, McNeese State University, 2015
+   * Mechanical Engineering 
+  
 
 # Work experience
-### Technical Lead, Controls Engineering - Dec 2023 - Present
-  * Amogy INC, Brookyln, NY 
-  * Lead control engineering across PD and R&D with 10+ Engineers 
-  * Lead Controls Algorithms Development, State Machine Development, HMI Development 
-  * PID Control, Hybrid Control, Filtering, State Transitions and Autonomy 
-  * Developed novel PID Control Algorithms for trajectory tracking that reduce actuator chattering and account for sensor error accuracy. 
-  * Noise and filter design 
-  * Feedback control, Feed-forward control, state-dependent control 
-  * Robust fault management algorithm development
-  * HMI Development 
-  * Automated HMI development in C Programming
-  * Programming in Simulink, C/C++, Python 
-  * CAN, Ethernet TCP, Modbus TCP networking Development
-  * VCU, dSpace, Raspberry PI, MircoController, CANape
-  * Lead Controls Hardware, Architecture Development 
-  * Lead the Control Hardware Selection that satisfies the functional safety 
-  * Advise and mentor junior controls, hil, embedded engineer 
-  * Hardware in the Loop Development
+#### Technical Lead, Controls Software
+**Amogy INC**, Brooklyn, NY | *Aug 2022 – Present*
 
-### Senior Controls System Engineer  - Aug 2022- Dec 2023 
-  * Amogy INC, Brookyln, NY 
-  * Lead control engineering across PD and R&D with 10+ Engineers 
-  * Controls System Design 
-  * Controls and Autonomous Systems 
-  * State Machine Design and Development 
-  * Hardware in the Loop ( HIL) with dSpace 
-  * Model and Software in the Loop Development
-  * Data Analysis 
-  * Networking & Communication ( CAN, Ethernet UDP) 
-  * HMI Development 
-  * Embedded Systems 
+* Control Algorithms development, testing, and validation of the fully autonomous Amogy System.
+* Developed novel **PID Control Algorithms** for trajectory tracking that reduce actuator chattering and account for sensor error accuracy.
+* Lead Controls Engineering including Hardware & Software Development, Controls Algorithms, State Machine Development, and Network Architecture.
+* Developed advanced control algorithms: **Nonlinear control, Hybrid controls, Filter design, and Model Predictive Control (MPC)**.
+* Designed advanced networking for redundancy, communications, and data processing.
+* Designed HMI systems and implemented noise reduction, filtering, and fault management.
+* Developed data structures to integrate different devices for advanced communication, control, and HMI.
+* Configured and integrated communication protocols (CAN, Ethernet TCP, Modbus TCP).
+* Spearheaded hardware design, including VCU, Raspberry Pi, and dSPACE systems.
+* Guided a multidisciplinary team, ensuring compliance with **functional safety standards**.
+* Advise and mentor junior controls, HIL, embedded, and electrical engineers.
+* **Tools:** C/C++, Python, MATLAB, CAN, CANape, CANalyzer, dSPACE, Code Generation, TCP/IP Networking.
 
 ###  Senior Vehicles Motion Controls Engineer, Autonomous Vehicles - Jan 2021 - June 2022 
   * Ford Motor Company, Dearborn, MI. 
