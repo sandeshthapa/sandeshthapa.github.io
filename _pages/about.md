@@ -67,7 +67,15 @@ Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU.
 
 
 #### Aerial Manipulator Design
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7CUKSTdc1d5ysa3B" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+  <iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/lgTVWmbpyd0" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+  </iframe>
+</div>
 
 ### Aerial Manipulator Fight Test 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
