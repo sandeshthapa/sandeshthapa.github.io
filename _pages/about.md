@@ -8,6 +8,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+- I’m a Robotics Controls Engineer passionate about building intelligent, reliable, and safe autonomous systems. My interests lie at the intersection of control theory, planning, and optimization, with applications across UAVs, autonomous vehicles, and robotics. 
+
+I specialize in designing provably safe control and planning/learning algorithms from the ground up—leveraging tools from control theory, optimization, vehicle dynamics, and learning-based methods to solve real-world challenges in autonomous navigation, flight control, and decision-making.
+
 - Robotics, Controls, Learning and Autonomy
 - Languages: C/C++, MATLAB/Simulink, Stateflow, Python
 - Platforms: ROS, dSpace, MicroAutoBox II, Rasberry PI, Jetson-TX2, VCU, ECU Scalexio, CANape, CANalyzer, PX4-
@@ -99,7 +103,7 @@ Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag For
 
 
 ### Path Planning Based on Clothiod. 
-  
+
 # Bio 
 
 I'm a Controls Engineer for robotics, autonomous vehicles and UAVS. I love designing safe crtical control and planning algorithms from ground up using tools from control theory, optimization, vehicle dynamics, robotics, learning and planning. I'm interested in the intersection of theory and applications. I enjoy developing practical and safe algorithms and apply them to solve real problems in autonomous vehicle controls, flight controls, navigation, decision making, autonomy and robotics. I have developed, implemented and published various trajectory tracking control and planning and coordination algorithms for both mutli-rotors and mobile robots/vehicles using LQR, PID, MPC, Adaptive, Nonlinear, Path planning based on clothoids, differential flatness, splines and so on using C++, Python, ROS/Gazebo, MATLAB/Simulink both in simulation and real time system using PX4, dSpace, C++/ROS.
