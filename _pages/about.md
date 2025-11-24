@@ -83,7 +83,7 @@ Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag For
   Your browser does not support the video tag.
 </video>
 
-## Vehicle Dynamics and Control 
+## Autonomous Vehicle Planning and Control 
 
 ### Vehicle Dynamics with Cruise Control and lateral control. 
 <video width="100%" controls autoplay loop muted>
@@ -91,13 +91,15 @@ Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag For
   Your browser does not support the video tag.
 </video> 
 
-## Pure Pursuit Based Control 
+### Pure Pursuit Based Control 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/pure_pursuit.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
 
 
+### Path Planning Based on Clothiod. 
+  
 # Bio 
 
 I'm a Controls Engineer for robotics, autonomous vehicles and UAVS. I love designing safe crtical control and planning algorithms from ground up using tools from control theory, optimization, vehicle dynamics, robotics, learning and planning. I'm interested in the intersection of theory and applications. I enjoy developing practical and safe algorithms and apply them to solve real problems in autonomous vehicle controls, flight controls, navigation, decision making, autonomy and robotics. I have developed, implemented and published various trajectory tracking control and planning and coordination algorithms for both mutli-rotors and mobile robots/vehicles using LQR, PID, MPC, Adaptive, Nonlinear, Path planning based on clothoids, differential flatness, splines and so on using C++, Python, ROS/Gazebo, MATLAB/Simulink both in simulation and real time system using PX4, dSpace, C++/ROS.
