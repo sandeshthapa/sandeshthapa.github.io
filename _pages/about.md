@@ -35,7 +35,7 @@ Designed and implemented full state time varying LQR and implemented in real-tim
 </video>
 
 ### Quadrotor UAV Cascaed PID Controll in PX4 
-<video width="100%" controls autoplay loop muted>
+<video width="50%" controls autoplay loop muted>
   <source src="../images/PX4_PID_Control.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -46,53 +46,15 @@ Designed and implemented full state time varying LQR and implemented in real-tim
   Your browser does not support the video tag.
 </video>
 
-### Non-linear adaptive geometric Control 
+### 3D Trajetory Generation of UAV  
+![parallel parking ](../images/trajGen.png)
 
-### Trajetory Planning of UAV  
 <video width="100%" controls autoplay loop muted>
   <source src="../images/Minimum_Snap_Trajectory_Generation_Simulation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-# Cooperative Control and Manipulation 
-Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU. 
-### Cooperative Control of Uknown Payload, Adaptive Control and consensus control.  
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-<video width="100%" controls autoplay loop muted>
-  <source src="../images/KnownMass5.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-#### Aerial Manipulator Design
-<div align="center">
-  <iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/lgTVWmbpyd0" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  allowfullscreen>
-  </iframe>
-</div>
-
-### Aerial Manipulator Fight Test 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-# Concurrent Learning Based Control and Estimation 
-Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag Force Estimation. Published in IEEE Control System Letters , 2019. Joint with Dr. Kamalapurkar at OSU, currently at UF. 
-
-## Drag Force Estimation 
-![Winter run in Hoboken](../images/VelLoadB.png)
-
-## Contact force acting on the payload 
-![Drag forces Estimation ](../images/f1dTildeB.png)
-
-## Simulation with time varying velocity 
-<video width="100%" controls autoplay loop muted>
-  <source src="../images/LSS_2019_TimeVarVelocity.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 # Autonomous Vehicle Planning and Control 
 ![parallel parking ](../images/parallel_parking.png)
@@ -118,6 +80,51 @@ Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag For
   Your browser does not support the video tag.
 </video> 
 
+
+# Cooperative Control and Manipulation 
+Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU. 
+### Cooperative Control of Uknown Payload, Adaptive Control and consensus control.  
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/KnownMass5.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+#### Aerial Manipulator Design
+<div align="center">
+  <iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/lgTVWmbpyd0" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+  </iframe>
+</div>
+
+### Aerial Manipulator Fight Test 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Learning Based Control and Estimation 
+Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag Force Estimation. Published in IEEE Control System Letters , 2019. Joint with Dr. Kamalapurkar at OSU, currently at UF. 
+
+### Drag Force Estimation 
+![Winter run in Hoboken](../images/VelLoadB.png)
+
+### Contact force acting on the payload 
+![Drag forces Estimation ](../images/f1dTildeB.png)
+
+### Simulation with time varying velocity 
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/LSS_2019_TimeVarVelocity.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+### Non-linear adaptive geometric Control 
+![Adaptive Control ](../images/adaptivecontrol.png)
+
+![Adaptive Control  res](../images/adapresult.png)
 
 
 # Safety Embedded Control 
