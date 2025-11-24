@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- I’m a Robotics Controls Engineer passionate about building intelligent, reliable, and safe autonomous systems. My interests lie at the intersection of control theory, planning, and optimization, with applications across UAVs, autonomous vehicles, and robotics. I specialize in designing provably safe control and planning/learning algorithms from the ground up—leveraging tools from control theory, optimization, vehicle dynamics, and learning-based methods to solve real-world challenges in autonomous navigation, flight control, and decision-making.
+I’m a Robotics Controls Engineer passionate about building intelligent, reliable, and safe autonomous systems. My interests lie at the intersection of control theory, planning, and optimization, with applications across UAVs, autonomous vehicles, and robotics. I specialize in designing provably safe control and planning/learning algorithms from the ground up—leveraging tools from control theory, optimization, vehicle dynamics, and learning-based methods to solve real-world challenges in autonomous navigation, flight control, and decision-making.
 
 - Robotics, Controls, Learning and Autonomy
 - Languages: C/C++, MATLAB/Simulink, Stateflow, Python
@@ -95,7 +95,7 @@ Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag For
 
 ## Autonomous Vehicle Planning and Control 
 
-###3 Vehicle Dynamics with Cruise Control and lateral control. 
+#### Vehicle Dynamics with Cruise Control and lateral control. 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/Vehicle_Dynamics_and_Cruise_Control.mp4" type="video/mp4">
   Your browser does not support the video tag.
