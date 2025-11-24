@@ -8,9 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- I’m a Robotics Controls Engineer passionate about building intelligent, reliable, and safe autonomous systems. My interests lie at the intersection of control theory, planning, and optimization, with applications across UAVs, autonomous vehicles, and robotics. 
-
-I specialize in designing provably safe control and planning/learning algorithms from the ground up—leveraging tools from control theory, optimization, vehicle dynamics, and learning-based methods to solve real-world challenges in autonomous navigation, flight control, and decision-making.
+- I’m a Robotics Controls Engineer passionate about building intelligent, reliable, and safe autonomous systems. My interests lie at the intersection of control theory, planning, and optimization, with applications across UAVs, autonomous vehicles, and robotics. I specialize in designing provably safe control and planning/learning algorithms from the ground up—leveraging tools from control theory, optimization, vehicle dynamics, and learning-based methods to solve real-world challenges in autonomous navigation, flight control, and decision-making.
 
 - Robotics, Controls, Learning and Autonomy
 - Languages: C/C++, MATLAB/Simulink, Stateflow, Python
@@ -28,28 +26,28 @@ Autopilot,  UDP Ethernet , CANdb++, QGroundControl, PX4-SITL
 
 ## Autonomous Control of UAV 
 
-### State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
+#### State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
 Designed and implemented full state time varying LQR and implemented in real-time Gazebo and PX4
 <video width="100%" controls autoplay loop muted>
   <source src="../images/LQR_control.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### Quadrotor UAV Cascaed PID Controll in PX4 
+#### Quadrotor UAV Cascaed PID Controll in PX4 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/PX4_PID_Control.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### Offboard Velocity Control 
+####  Offboard Velocity Control 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/offboard_velocity_px4_gazebo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### Non-linear adaptive geometric Control 
+#### Non-linear adaptive geometric Control 
 
-### Trajetory Planning of UAV  
+#### Trajetory Planning of UAV  
 <video width="100%" controls autoplay loop muted>
   <source src="../images/Minimum_Snap_Trajectory_Generation_Simulation.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -66,7 +64,7 @@ Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU.
 </video>
 
 
-#### Aerial Manipulator Design
+##### Aerial Manipulator Design
 <div align="center">
   <iframe width="560" height="315" 
   src="https://www.youtube.com/embed/lgTVWmbpyd0" 
@@ -77,7 +75,7 @@ Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU.
   </iframe>
 </div>
 
-### Aerial Manipulator Fight Test 
+#### Aerial Manipulator Fight Test 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Concurrent Learning Based Control and Estimation 
@@ -97,20 +95,20 @@ Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag For
 
 ## Autonomous Vehicle Planning and Control 
 
-### Vehicle Dynamics with Cruise Control and lateral control. 
+###3 Vehicle Dynamics with Cruise Control and lateral control. 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/Vehicle_Dynamics_and_Cruise_Control.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
 
-### Pure Pursuit Based Control 
+#### Pure Pursuit Based Control 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/pure_pursuit.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
 
 
-### Path Planning Based on Clothiod. 
+#### Path Planning Based on Clothiod. 
 
 # Bio 
 
