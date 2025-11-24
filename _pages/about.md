@@ -17,7 +17,7 @@ Autopilot,  UDP Ethernet , CANdb++, QGroundControl, PX4-SITL
 
 ---
 
-## Table of Contents
+Table of Contents
 * Auto generated table of contents
 {:toc}
 
