@@ -51,10 +51,16 @@ Designed and implemented full state time varying LQR and implemented in real-tim
   Your browser does not support the video tag.
 </video>
 
-## Cooperative Coontrol and Manipulation 
-Part of M.S Research Work at Oklahoma State 
-### Cooperative Aerial Manipulation 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Cooperative Control and Manipulation 
+Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU. 
+### Cooperative Control of Uknown Payload, Adaptive Control and consensus control.  
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/KnownMass5.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 #### Aerial Manipulator Design
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7CUKSTdc1d5ysa3B" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -63,6 +69,7 @@ Part of M.S Research Work at Oklahoma State
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Concurrent Learning Based Control and Estimation 
+Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag Force Estimation. Published in IEEE Control System Letters , 2019. Joint with Dr. Kamalapurkar at OSU, currently at UF. 
 
 ### Drag Force Estimation 
 ![Winter run in Hoboken](../images/VelLoadB.png)
