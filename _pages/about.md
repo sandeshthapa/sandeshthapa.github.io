@@ -170,7 +170,7 @@ In general I'm interested in both deep theoretical foundations and practical app
   
 
 # Work experience
-#### Technical Lead, Controls Software
+## Technical Lead, Controls Software
 **Amogy INC**, Brooklyn, NY | *Aug 2022 – Present*
 
 * Control Algorithms development, testing, and validation of the fully autonomous Amogy System.
