@@ -170,7 +170,7 @@ In general I'm interested in both deep theoretical foundations and practical app
   
 
 # Work experience
-## Technical Lead, Controls Software
+### Technical Lead, Controls Software
 **Amogy INC**, Brooklyn, NY | *Aug 2022 – Present*
 
 * Control Algorithms development, testing, and validation of the fully autonomous Amogy System.
@@ -186,7 +186,7 @@ In general I'm interested in both deep theoretical foundations and practical app
 * Advise and mentor junior controls, HIL, embedded, and electrical engineers.
 * **Tools:** C/C++, Python, MATLAB, CAN, CANape, CANalyzer, dSPACE, Code Generation, TCP/IP Networking.
 
-#### Research Engineer (Autonomous Driving - Planning and Controls)
+### Research Engineer (Autonomous Driving - Planning and Controls)
 **Ford Motor Company**, Dearborn, MI | *Jan 2021 – Jun 2022*
 
 * Research in advanced controls and planning; designed low-speed path planning and control algorithms for autonomous parallel parking, auto-hitch, nudge maneuvers, state machines, and V2V localization/collision-avoidance.
