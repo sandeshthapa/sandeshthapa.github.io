@@ -28,7 +28,7 @@ Table of Contents
 ---
 
 
-## Cooperative Control and Manipulation 
+## Distributed Control and Manipulation 
 Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU. 
 ### Cooperative Control of Unknown Payload, Adaptive Control and Consensus Control.  
 <video width="100%" controls autoplay loop muted>
