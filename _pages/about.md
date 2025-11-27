@@ -18,17 +18,11 @@ I'm interested in developing both **theoretical methods** and **computational to
 - **Research Interest:**Provavly safe control and motion planning of autonomous systems, decision making under uncertainty, distributed control and estimation, multi-vehicle coordination and control, aerial robotics,
 
 ---
-
-
 ### Related Work (Portfolio)
 ---
-
-Table of Contents
 * Auto generated table of contents
 {:toc}
-
 ---
-
 ## Distributed Control and Manipulation 
 Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work with Dr. Acosta from U of Seville, Spain. 
 
