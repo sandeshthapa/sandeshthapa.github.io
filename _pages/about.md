@@ -18,7 +18,7 @@ I’m a **Robotics Controls Engineer** passionate about building intelligent, re
 ---
 
 
-***Related Work (Portfolio)***
+### Related Work (Portfolio)
 ---
 
 Table of Contents
