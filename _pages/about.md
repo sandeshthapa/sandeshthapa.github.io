@@ -58,6 +58,7 @@ Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work w
   allow="accelerometer; autoploes not support the video tag.
 </video>
 
+### Cooperative Control with time varying velocity
 <div align="center">
   <iframe width="560" height="315" 
   src="https://www.youtube.com/embed/tDgRc_d6Nqo" 
