@@ -92,21 +92,29 @@ Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag For
 
 ![Adaptive Control Results](../images/adapresult.png)
 
-## Aerial Manipulator Design 
+## Autonomous Vehicle Planning and Control 
+![Parallel Parking Simulation Setup ](../images/parallel_parking.png)
 
-### Aerial Manipulator Flight Test 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Path Planning Based on Clothoid
+![Path Planning Implementation ](../images/planning.png)
 
-#### Aerial Manipulator Design
-<div align="center">
-  <iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/lgTVWmbpyd0" 
-  title="Aerial Manipulator Design" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  allowfullscreen>
-  </iframe>
-</div>
+### Non-linear Rear Wheel Feedback Based Control 
+![Parallel Parking Control Schematic ](../images/control.png)
+
+![Parallel Parking Results](../images/results.png)
+
+### Vehicle Dynamics with Cruise Control and Lateral Control 
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/Vehicle_Dynamics_and_Cruise_Control.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+
+### Pure Pursuit Based Control 
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/pure_pursuit.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+
 
 ## Autonomous Control of UAV 
 
@@ -139,29 +147,21 @@ Designed and implemented full state time varying LQR and implemented in real-tim
   Your browser does not support the video tag.
 </video>
 
+## Aerial Manipulator Design 
 
-## Autonomous Vehicle Planning and Control 
-![Parallel Parking Simulation Setup ](../images/parallel_parking.png)
+### Aerial Manipulator Flight Test 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Path Planning Based on Clothoid
-![Path Planning Implementation ](../images/planning.png)
-
-### Non-linear Rear Wheel Feedback Based Control 
-![Parallel Parking Control Schematic ](../images/control.png)
-
-![Parallel Parking Results](../images/results.png)
-
-### Vehicle Dynamics with Cruise Control and Lateral Control 
-<video width="100%" controls autoplay loop muted>
-  <source src="../images/Vehicle_Dynamics_and_Cruise_Control.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
-
-### Pure Pursuit Based Control 
-<video width="100%" controls autoplay loop muted>
-  <source src="../images/pure_pursuit.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
+#### Aerial Manipulator Design
+<div align="center">
+  <iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/lgTVWmbpyd0" 
+  title="Aerial Manipulator Design" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+  </iframe>
+</div>
 
 ## Safety Embedded Control 
 Safety Embedded PID Control for Robotics and Automation. Work in Progress. 
