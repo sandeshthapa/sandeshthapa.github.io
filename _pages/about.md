@@ -167,7 +167,7 @@ Safety Embedded PID Control for Robotics and Automation. Work in Progress.
 
 ![PID Control Exploded View](../images/pidcontrolexploded.png)
 
-# Bio / Context 
+### Bio / Context 
 
 I'm a Controls Engineer for robotics, autonomous vehicles and UAVs. I love designing safe critical control and planning algorithms from the ground up using tools from control theory, optimization, vehicle dynamics, robotics, learning, and planning. I'm interested in the intersection of theory and applications. I enjoy developing practical and safe algorithms and apply them to solve real problems in autonomous vehicle controls, flight controls, navigation, decision making, autonomy, and robotics. I have developed, implemented and published various trajectory tracking control and planning and coordination algorithms for both multi-rotors and mobile robots/vehicles using LQR, PID, MPC, Adaptive, Nonlinear, Path planning based on clothoids, differential flatness, splines and so on using C++, Python, ROS/Gazebo, MATLAB/Simulink both in simulation and real-time system using PX4, dSpace, C++/ROS.
 
@@ -175,7 +175,7 @@ I received my Masters in Mechanical and Aerospace Engineering at Oklahoma State 
 
 During my M.S. I worked on Aerial robotics and Control with focus on cooperative aerial manipulation and control of multi-agents. We published 3 peer-reviewed conference paper and 2 journals
 
-# Current Research Interest 
+### Current Research Interest 
 
 My interest lies in the intersection of control, planning, learning for autonomous systems. I’m interested in the balance between theoretical analysis and practical implementation on hardware systems in a multi-disciplinary environment. My overall goal is to be a full stack controls and robotics researcher using tools ranging from control design, autonomous planning, decision making and implementation on real-time hardware systems. 
 
@@ -194,7 +194,7 @@ In general I'm interested in both deep theoretical foundations and practical app
 - Planning/Decision making under uncertainty 
 
 
-# Education
+### Education
 
 ### M.S. in Mechanical & Aerospace Engineering, Oklahoma State University, 2018
    * Robotics & Controls 
@@ -203,7 +203,7 @@ In general I'm interested in both deep theoretical foundations and practical app
    * Mechanical Engineering 
   
 
-# Work Experience
+### Work Experience
 ### Technical Lead, Controls Software
 **Amogy INC**, Brooklyn, NY | *Aug 2022 – Present*
 
@@ -243,10 +243,10 @@ In general I'm interested in both deep theoretical foundations and practical app
   * Deka Research and Development , Manchester, NH 
   * Autonomous robots offline path planning and controls
   
-# Updates 
+### Updates 
 - 
 
-# Other Interests 
+###  Other Interests 
 ![Winter run in Hoboken](../images/running_hoboken_osu.jpg)
 
 
