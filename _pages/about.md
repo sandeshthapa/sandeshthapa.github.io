@@ -18,7 +18,7 @@ I’m a **Robotics Controls Engineer** passionate about building intelligent, re
 ---
 
 
-# Related Work (Portfolio)
+***Related Work (Portfolio)***
 ---
 
 Table of Contents
@@ -254,4 +254,4 @@ In general I'm interested in both deep theoretical foundations and practical app
 ![May the drones be with you](../images/IMG_drl.JPG)
 
 
-# Email: thapasandesh1@gmail.com
+### Email: thapasandesh1@gmail.com
