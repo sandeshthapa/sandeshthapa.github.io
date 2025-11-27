@@ -32,8 +32,8 @@ Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU.
 
 ![coop control ](../images/newagents4.png)
 
-Relevant Publications: 
-- * **[J2.] Thapa S.**, Bai H. and Acosta J.A. *Cooperative Aerial Manipulation with Decentralized Adaptive Force-Consensus Control*. Journal of Intelligent & Robotic Systems, Jan, 2020
+** Relevant Publications: ** 
+* **[J2.] Thapa S.**, Bai H. and Acosta J.A. *Cooperative Aerial Manipulation with Decentralized Adaptive Force-Consensus Control*. Journal of Intelligent & Robotic Systems, Jan, 2020
 * **[C1.] Thapa S.**, Bai H. and Acosta J.A. *Cooperative Aerial Load Transport with Attitude Stabilization*. 2018 American Control Conference (ACC).
 * **[C2.] Thapa S.**, Bai H. and Acosta J.A. *Force Control in Cooperative Aerial Manipulation*. IEEE International Conference on Unmanned Aircraft Systems (ICUAS), June 12-15, 2018
 * **[C3.] Thapa S.**, Bai H. and Acosta J.A. *Cooperative Aerial Load Transport with Force Control*. IFAC Workshop on Networked & Autonomous Air & Space Systems, June 12-14, 2018
