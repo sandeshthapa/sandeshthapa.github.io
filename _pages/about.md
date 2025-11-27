@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sandesh Thapa: Controls and Robotics"
+title: "About me"
 excerpt: "Robotics Controls Engineer specializing in provably safe and optimization-based control systems."
 author_profile: true
 bg_img : 'https://github.com/sandeshthapa/sandeshthapa.github.io/images/running_hoboken_osu.jpg'
@@ -16,7 +16,16 @@ I’m a **Robotics Controls Engineer** passionate about building intelligent, re
 
 ---
 
+
 # Related Work (Portfolio)
+---
+
+Table of Contents
+* Auto generated table of contents
+{:toc}
+
+---
+
 
 ## Autonomous Control of UAV 
 
