@@ -12,7 +12,7 @@ author_profile: true
 
 Designed and implemented full state time varying LQR and implemented in real-time Gazebo and PX4
 ![LQR Control ](../images/LQR_Control%20.png)
-...
+
 <video width="100%" controls autoplay loop muted>
   <source src="../images/LQR_control.mp4" type="video/mp4">
   Your browser does not support the video tag.
