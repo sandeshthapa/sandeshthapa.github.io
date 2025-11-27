@@ -1,27 +1,22 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Sandesh Thapa: Controls and Robotics"
+excerpt: "Robotics Controls Engineer specializing in provably safe and optimization-based control systems."
 author_profile: true
 bg_img : 'https://github.com/sandeshthapa/sandeshthapa.github.io/images/running_hoboken_osu.jpg'
 redirect_from: 
   - /about/
   - /about.html
 ---
-I’m a Robotics Controls Engineer passionate about building intelligent, reliable, and safe autonomous systems. My interests lie at the intersection of control theory, planning, and optimization, with applications across UAVs, autonomous vehicles, and robotics. I specialize in designing provably safe control and planning/learning algorithms from the ground up—leveraging tools from control theory, optimization, vehicle dynamics, and learning-based methods to solve real-world challenges in autonomous navigation, flight control, and decision-making.
+I’m a **Robotics Controls Engineer** passionate about building intelligent, reliable, and safe autonomous systems. My interests lie at the intersection of control theory, planning, and optimization, with applications across UAVs, autonomous vehicles, and robotics. I specialize in designing provably safe control and planning/learning algorithms from the ground up—leveraging tools from control theory, optimization, vehicle dynamics, and learning-based methods to solve real-world challenges in autonomous navigation, flight control, and decision-making.
 
-- Robotics, Controls, Learning and Autonomy
-- Languages: C/C++, MATLAB/Simulink, Stateflow, Python
-- Platforms: ROS, dSpace, MicroAutoBox II, Rasberry PI, Jetson-TX2, VCU, ECU Scalexio, CANape, CANalyzer, PX4-
-Autopilot,  UDP Ethernet , CANdb++, QGroundControl, PX4-SITL
-
----
-
-Table of Contents
-* Auto generated table of contents
-{:toc}
+- **Research Focus:** Robotics, Controls, Learning, and Autonomy
+- **Languages:** C/C++, MATLAB/Simulink, Stateflow, Python
+- **Platforms:** ROS, **dSPACE**, MicroAutoBox II, **Raspberry Pi**, Jetson-TX2, VCU, ECU Scalexio, CANape, CANalyzer, **PX4-Autopilot**, UDP Ethernet, CANdb++, QGroundControl, PX4-SITL
 
 ---
+
+# Related Work (Portfolio)
 
 ## Autonomous Control of UAV 
 
@@ -128,17 +123,17 @@ Safety Embedded PID Control for Robotics and Automation. Work in Progress.
 
 ![PID Control Exploded View](../images/pidcontrolexploded.png)
 
-# Bio 
+# Bio / Context 
 
-I'm a Controls Engineer for robotics, autonomous vehicles and UAVS. I love designing safe crtical control and planning algorithms from ground up using tools from control theory, optimization, vehicle dynamics, robotics, learning and planning. I'm interested in the intersection of theory and applications. I enjoy developing practical and safe algorithms and apply them to solve real problems in autonomous vehicle controls, flight controls, navigation, decision making, autonomy and robotics. I have developed, implemented and published various trajectory tracking control and planning and coordination algorithms for both mutli-rotors and mobile robots/vehicles using LQR, PID, MPC, Adaptive, Nonlinear, Path planning based on clothoids, differential flatness, splines and so on using C++, Python, ROS/Gazebo, MATLAB/Simulink both in simulation and real time system using PX4, dSpace, C++/ROS.
+I'm a Controls Engineer for robotics, autonomous vehicles and UAVs. I love designing safe critical control and planning algorithms from the ground up using tools from control theory, optimization, vehicle dynamics, robotics, learning, and planning. I'm interested in the intersection of theory and applications. I enjoy developing practical and safe algorithms and apply them to solve real problems in autonomous vehicle controls, flight controls, navigation, decision making, autonomy, and robotics. I have developed, implemented and published various trajectory tracking control and planning and coordination algorithms for both multi-rotors and mobile robots/vehicles using LQR, PID, MPC, Adaptive, Nonlinear, Path planning based on clothoids, differential flatness, splines and so on using C++, Python, ROS/Gazebo, MATLAB/Simulink both in simulation and real-time system using PX4, dSpace, C++/ROS.
 
 I received my Masters in Mechanical and Aerospace Engineering at Oklahoma State University working under Dr. He Bai at the CoRAL Lab from Aug 2016 to Dec 2018. I worked very closely with Dr. Rushikesh Kamalapurkar (currently at UF) and J.Á. Acosta at Universidad de Sevilla (Spain). 
 
-During my M.S. I worked on Aerial robotics and Control with focus on cooperative aerial manipulation and control of muti-agents. We published 3 peer-reviewed conference paper and 2 journal
+During my M.S. I worked on Aerial robotics and Control with focus on cooperative aerial manipulation and control of multi-agents. We published 3 peer-reviewed conference paper and 2 journals
 
 # Current Research Interest 
 
-My  interest lies in the intersection of control, planning, learning for autonomous systems. I’m interested in the balance between theoretical analysis and practical implementation on hardware systems in a multi-disciplinary environment. My overall goal is to be a full stack controls and robotics researcher using tools ranging from control design, autonomous planning, decision making and implementation on real-time hardware systems. 
+My interest lies in the intersection of control, planning, learning for autonomous systems. I’m interested in the balance between theoretical analysis and practical implementation on hardware systems in a multi-disciplinary environment. My overall goal is to be a full stack controls and robotics researcher using tools ranging from control design, autonomous planning, decision making and implementation on real-time hardware systems. 
 
 In general I'm interested in both deep theoretical foundations and practical applications.
 
@@ -164,7 +159,7 @@ In general I'm interested in both deep theoretical foundations and practical app
    * Mechanical Engineering 
   
 
-# Work experience
+# Work Experience
 ### Technical Lead, Controls Software
 **Amogy INC**, Brooklyn, NY | *Aug 2022 – Present*
 
@@ -176,7 +171,7 @@ In general I'm interested in both deep theoretical foundations and practical app
 * Designed HMI systems and implemented noise reduction, filtering, and fault management.
 * Developed data structures to integrate different devices for advanced communication, control, and HMI.
 * Configured and integrated communication protocols (CAN, Ethernet TCP, Modbus TCP).
-* Spearheaded hardware design, including VCU, Raspberry Pi, and dSPACE systems.
+* Spearheaded hardware design, including VCU, **Raspberry Pi**, and dSPACE systems.
 * Guided a multidisciplinary team, ensuring compliance with **functional safety standards**.
 * Advise and mentor junior controls, HIL, embedded, and electrical engineers.
 * **Tools:** C/C++, Python, MATLAB, CAN, CANape, CANalyzer, dSPACE, Code Generation, TCP/IP Networking.
