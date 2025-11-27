@@ -58,12 +58,15 @@ Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work w
   allow="accelerometer; autoploes not support the video tag.
 </video>
 
-### Aerial Manipulator Flight Test 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#### Aerial Manipulator Design
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c40ab6vuRKk9XW3T" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div align="center">
+  <iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/tDgRc_d6Nqo" 
+  title="Autonomous Flight Control Implementation Example" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+  </iframe>
+</div>
 
 ## Learning Based Control and Estimation 
 Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag Force Estimation. Published in IEEE Control System Letters , 2019. Joint with Dr. Kamalapurkar at OSU, currently at UF. 
@@ -87,6 +90,22 @@ Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag For
 ![Adaptive Control Schematic ](../images/adaptivecontrol.png)
 
 ![Adaptive Control Results](../images/adapresult.png)
+
+## Aerial Manipulator Design 
+
+### Aerial Manipulator Flight Test 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Aerial Manipulator Design
+<div align="center">
+  <iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/lgTVWmbpyd0" 
+  title="Aerial Manipulator Design" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+  </iframe>
+</div>
 
 ## Autonomous Control of UAV 
 
