@@ -23,7 +23,14 @@ Table of Contents
 
 ---
 
-# Autonomous Control of UAV 
+#---
+title: "Research and Portfolio"
+permalink: /research/
+---
+
+# Related Work
+
+## Autonomous Control of UAV 
 
 ### State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
 Designed and implemented full state time varying LQR and implemented in real-time Gazebo and PX4
@@ -34,7 +41,7 @@ Designed and implemented full state time varying LQR and implemented in real-tim
   Your browser does not support the video tag.
 </video>
 
-### Quadrotor UAV Cascaed PID Controll in PX4 
+### Quadrotor UAV Cascaded PID Control in PX4 
 <video width="50%" controls autoplay loop muted>
   <source src="../images/PX4_PID_Control.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -46,8 +53,8 @@ Designed and implemented full state time varying LQR and implemented in real-tim
   Your browser does not support the video tag.
 </video>
 
-### 3D Trajetory Generation of UAV  
-![parallel parking ](../images/trajGen.png)
+### 3D Trajectory Generation of UAV  
+![Parallel Parking Trajectory Generation ](../images/trajGen.png)
 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/Minimum_Snap_Trajectory_Generation_Simulation.mp4" type="video/mp4">
@@ -55,20 +62,18 @@ Designed and implemented full state time varying LQR and implemented in real-tim
 </video>
 
 
+## Autonomous Vehicle Planning and Control 
+![Parallel Parking Simulation Setup ](../images/parallel_parking.png)
 
-# Autonomous Vehicle Planning and Control 
-![parallel parking ](../images/parallel_parking.png)
-
-### Path Planning Based on Clothiod. 
-
-![planning ](../images/planning.png)
+### Path Planning Based on Clothoid
+![Path Planning Implementation ](../images/planning.png)
 
 ### Non-linear Rear Wheel Feedback Based Control 
-![parallel parking control ](../images/control.png)
+![Parallel Parking Control Schematic ](../images/control.png)
 
-![parallel parking results](../images/results.png)
+![Parallel Parking Results](../images/results.png)
 
-### Vehicle Dynamics with Cruise Control and lateral control. 
+### Vehicle Dynamics with Cruise Control and Lateral Control 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/Vehicle_Dynamics_and_Cruise_Control.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -81,11 +86,9 @@ Designed and implemented full state time varying LQR and implemented in real-tim
 </video> 
 
 
-# Cooperative Control and Manipulation 
+## Cooperative Control and Manipulation 
 Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU. 
-### Cooperative Control of Uknown Payload, Adaptive Control and consensus control.  
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/NlLO4DQXdJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
+### Cooperative Control of Unknown Payload, Adaptive Control and Consensus Control.  
 <video width="100%" controls autoplay loop muted>
   <source src="../images/KnownMass5.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -102,36 +105,35 @@ Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU.
   </iframe>
 </div>
 
-### Aerial Manipulator Fight Test 
+### Aerial Manipulator Flight Test 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Learning Based Control and Estimation 
+## Learning Based Control and Estimation 
 Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag Force Estimation. Published in IEEE Control System Letters , 2019. Joint with Dr. Kamalapurkar at OSU, currently at UF. 
 
 ### Drag Force Estimation 
-![Winter run in Hoboken](../images/VelLoadB.png)
+![Drag Force Estimation Example ](../images/VelLoadB.png)
 
-### Contact force acting on the payload 
-![Drag forces Estimation ](../images/f1dTildeB.png)
+### Contact Force Acting on the Payload 
+![Contact Force Estimation Results ](../images/f1dTildeB.png)
 
-### Simulation with time varying velocity 
+### Simulation with Time-Varying Velocity 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/LSS_2019_TimeVarVelocity.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 
-### Non-linear adaptive geometric Control 
-![Adaptive Control ](../images/adaptivecontrol.png)
+### Non-linear Adaptive Geometric Control 
+![Adaptive Control Schematic ](../images/adaptivecontrol.png)
 
-![Adaptive Control  res](../images/adapresult.png)
+![Adaptive Control Results](../images/adapresult.png)
 
 
-# Safety Embedded Control 
-Safety Embedded PID Control for Robotics and Automation , Work in Progress. 
+## Safety Embedded Control 
+Safety Embedded PID Control for Robotics and Automation. Work in Progress. 
 
-![pid control](../images/pidcontrolexploded.png)
-
+![PID Control Exploded View](../images/pidcontrolexploded.png)
 
 # Bio 
 
