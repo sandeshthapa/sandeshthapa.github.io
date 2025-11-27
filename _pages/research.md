@@ -6,6 +6,11 @@ author_profile: true
 
 {% include base_path %}
 
+Table of Contents
+* Auto generated table of contents
+{:toc}
+
+
 # Autonomous Control of UAV 
 
 ## State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
