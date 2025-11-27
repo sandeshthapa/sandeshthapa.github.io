@@ -28,7 +28,7 @@ Table of Contents
 ---
 
 ## Distributed Control and Manipulation 
-Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU. 
+Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work with Dr. Acosta from U of Seville, Spain. 
 
 ![coop control ](../images/newagents4.png)
 
