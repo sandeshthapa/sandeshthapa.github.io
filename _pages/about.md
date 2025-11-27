@@ -23,13 +23,6 @@ Table of Contents
 
 ---
 
-#---
-title: "Research and Portfolio"
-permalink: /research/
----
-
-# Related Work
-
 ## Autonomous Control of UAV 
 
 ### State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
