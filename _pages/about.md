@@ -30,6 +30,8 @@ Table of Contents
 ## Distributed Control and Manipulation 
 Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU. 
 
+![coop control ](../images/newagents4.png)
+
 Relevant Publications: 
 - * **[J2.] Thapa S.**, Bai H. and Acosta J.A. *Cooperative Aerial Manipulation with Decentralized Adaptive Force-Consensus Control*. Journal of Intelligent & Robotic Systems, Jan, 2020
 * **[C1.] Thapa S.**, Bai H. and Acosta J.A. *Cooperative Aerial Load Transport with Attitude Stabilization*. 2018 American Control Conference (ACC).
@@ -46,6 +48,15 @@ Relevant Publications:
   allow="accelerometer; autoploes not support the video tag.
 </video>
 
+### Cooperative Attitude Control 
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/Anim_new_control.mp4" type="video/mp4">
+  Your browser dht="315" 
+  src="https://www.youtube.com/embed/lgTVWmbpyd0" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoploes not support the video tag.
+</video>
 
 ### Aerial Manipulator Flight Test 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
