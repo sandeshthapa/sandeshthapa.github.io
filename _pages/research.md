@@ -1,5 +1,5 @@
 ---
-title: "Research and Portfolio"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -11,69 +11,6 @@ Table of Contents
 {:toc}
 
 
-# Autonomous Control of UAV 
-
-## State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
-
-Designed and implemented full state time varying LQR and implemented in real-time Gazebo and PX4
-![LQR Control ](../images/LQR_Control%20.png)
-
-<video width="100%" controls autoplay loop muted>
-  <source src="../images/LQR_control.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-## Quadrotor UAV Cascaded PID Control in PX4 
-
-<video width="100%" controls autoplay loop muted>
-  <source src="../images/PX4_PID_Control.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-##  Offboard Velocity Control
-
-<video width="100%" controls autoplay loop muted>
-  <source src="../images/offboard_velocity_px4_gazebo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-## 3D Trajectory Generation of UAV  
-
-![Parallel Parking Trajectory Generation ](../images/trajGen.png)
-
-<video width="100%" controls autoplay loop muted>
-  <source src="../images/Minimum_Snap_Trajectory_Generation_Simulation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-# Autonomous Vehicle Planning and Control 
-
-![Parallel Parking Simulation Setup ](../images/parallel_parking.png)
-
-## Path Planning Based on Clothoid
-
-![Path Planning Implementation ](../images/planning.png)
-
-## Non-linear Rear Wheel Feedback Based Control 
-
-![Parallel Parking Control Schematic ](../images/control.png)
-
-![Parallel Parking Results](../images/results.png)
-
-## Vehicle Dynamics with Cruise Control and Lateral Control 
-
-<video width="100%" controls autoplay loop muted>
-  <source src="../images/Vehicle_Dynamics_and_Cruise_Control.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
-
-## Pure Pursuit Based Control 
-
-<video width="100%" controls autoplay loop muted>
-  <source src="../images/pure_pursuit.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
 
 
 # Cooperative Control and Manipulation 
@@ -126,6 +63,71 @@ Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag For
 ![Adaptive Control Schematic ](../images/adaptivecontrol.png)
 
 ![Adaptive Control Results](../images/adapresult.png)
+
+
+# Autonomous Vehicle Planning and Control 
+
+![Parallel Parking Simulation Setup ](../images/parallel_parking.png)
+
+## Path Planning Based on Clothoid
+
+![Path Planning Implementation ](../images/planning.png)
+
+## Non-linear Rear Wheel Feedback Based Control 
+
+![Parallel Parking Control Schematic ](../images/control.png)
+
+![Parallel Parking Results](../images/results.png)
+
+## Vehicle Dynamics with Cruise Control and Lateral Control 
+
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/Vehicle_Dynamics_and_Cruise_Control.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+
+## Pure Pursuit Based Control 
+
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/pure_pursuit.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+
+
+# Autonomous Control of UAV 
+
+## State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
+
+Designed and implemented full state time varying LQR and implemented in real-time Gazebo and PX4
+![LQR Control ](../images/LQR_Control%20.png)
+
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/LQR_control.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Quadrotor UAV Cascaded PID Control in PX4 
+
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/PX4_PID_Control.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+##  Offboard Velocity Control
+
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/offboard_velocity_px4_gazebo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## 3D Trajectory Generation of UAV  
+
+![Parallel Parking Trajectory Generation ](../images/trajGen.png)
+
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/Minimum_Snap_Trajectory_Generation_Simulation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 # Safety Embedded Control 
