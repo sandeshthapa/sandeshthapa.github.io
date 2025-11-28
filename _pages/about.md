@@ -18,13 +18,15 @@ I'm interested in developing both **theoretical methods** and **computational to
 - **Research Interest:**Provavly safe control and motion planning of autonomous systems, decision making under uncertainty, distributed control and estimation, multi-vehicle coordination and control, aerial robotics,
 
 ---
-### Related Work (Portfolio)
+### Selected Projects 
 ---
 * Auto generated table of contents
 {:toc}
 ---
 ## Distributed Control and Manipulation 
 Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work with Dr. Acosta from U of Seville, Spain. 
+* Developed a decentralized multi-robot control framework for cooperative manipulation tasks. In this project, multiple quadrotor UAVs work together to transport a payload without requiring constant inter-robot communication. Designed adaptive force-sharing controllers that regulate payload forces while all agents coordinate their motion. 
+* Demonstrated stable payload transport even with unknown payload mass or external disturbances, and validated the approach in simulation and experiments.
 
 ![coop control ](../images/newagents4.png)
 
@@ -66,7 +68,8 @@ Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work w
 </div>
 
 ## Learning Based Control and Estimation 
-Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag Force Estimation. Published in IEEE Control System Letters , 2019. Joint with Dr. Kamalapurkar at OSU, currently at UF. 
+* Implemented a **concurrent learning** adaptive control algorithm for a team of robots transporting a common load. This approach enables real-time estimation of unknown parameters (such as payload mass and drag) and simultaneously drives all agents and the payload to a desired trajectory.
+* The algorithm guarantees parameter convergence (e.g., the estimated mass converges to the true mass) and improves transient performance by using past data to relax excitation requirements. Achieved accurate force regulation and synchronized motion in simulations, laying groundwork for safer adaptive controllers in uncertain environments. 
 
 * **[J1.] Thapa S.**, Self R., Bai H. and Kamalapurkar, R. *Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag Force Estimation.* IEEE Control Systems Letters (L-CSS) with an option to present in CDC, 2019.
 
@@ -89,6 +92,11 @@ Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag For
 ![Adaptive Control Results](../images/adapresult.png)
 
 ## Autonomous Vehicle Planning and Control 
+* Researched different control **strategies** for **autonomous** vehicles path following **including** LQR, **nonlinear**, pure-pursuit, sliding mode, and so on. 
+* Developed **nonlinear rear-wheel** feedback control for **autonomous** vehicle trajectory tracking. 
+* **Developed clothoid-based** path planner for vehicle planning for parallel parking and auto-hitch. 
+* **Worked on state machines** for state transition and safety **certificates** (**CBFs**) for vehicle control and planning. 
+* Developed simulator for validating vehicle controls and planning **algorithms**. Validated in dSPACE.
 ![Parallel Parking Simulation Setup ](../images/parallel_parking.png)
 
 ### Path Planning Based on Clothoid
@@ -113,7 +121,12 @@ Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag For
 
 
 ## Autonomous Control of UAV 
-
+* Developed UAV dynamic models and implemented PD, PID, LQR/LQ, nonlinear Lyapunov-based, sliding-mode, backstepping, and Cartesian impedance controllers.
+* Implemented geometric attitude control for quadrotors and differential flatness-based trajectory generation.
+* Built quadrotor simulations in MATLAB/Simulink and ROS.
+* Built an end-to-end **autopilot system for a quadrotor UAV**, encompassing state estimation, path planning, and control. Implemented cascaded control loops for attitude, altitude, and position using both classical and modern control techniques (PID, LQR, nonlinear geometric control, and Model Predictive Control).
+* Incorporated sensor fusion (accelerometer, gyroscope, GPS) for state estimation and used the PX4 flight stack for hardware implementation.
+* The UAV was able to autonomously take off, navigate through waypoints, and land with minimal steady-state error, demonstrating robust performance of the control system against wind disturbances and sensor noise.
 ### State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
 Designed and implemented full state time varying LQR and implemented in real-time Gazebo and PX4
 ![LQR Control ](../images/LQR_Control%20.png)
