@@ -113,6 +113,10 @@ Part of M.S Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work w
   Your browser does not support the video tag.
 </video> 
 
+### Control Barrier Functions
+![CBFs](../images/CBFS.png)
+
+
 ### Pure Pursuit Based Control 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/pure_pursuit.mp4" type="video/mp4">
