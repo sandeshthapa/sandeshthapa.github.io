@@ -15,7 +15,7 @@ I'm interested in developing both **theoretical methods** and **computational to
 - **Research Focus:** Controls, Robotics, Learning, and Autonomy
 - **Languages:** C/C++, MATLAB/Simulink, Stateflow, Python
 - **Platforms:** **ROS**, **dSPACE**, MicroAutoBox II, **Raspberry Pi**, Jetson-TX2, VCU, ECU Scalexio, CANape, CANalyzer, **PX4-Autopilot**, UDP Ethernet, CANdb++, QGroundControl, PX4-SITL
-- **Research Interest:**Provavly safe control and motion planning of autonomous systems, decision making under uncertainty, distributed control and estimation, multi-vehicle coordination and control, aerial robotics,
+- **Current Research Interest:** Provavly safe control, adaptive autonomy and motion planning of autonomous systems, decision making under uncertainty, distributed control and estimation, multi-vehicle coordination and control, aerial robotics,
 
 ---
 ### Selected Projects 
