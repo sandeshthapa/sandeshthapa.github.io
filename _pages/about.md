@@ -8,6 +8,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+*Robotics Controls Enginer, medicore tinkerer, part-time EE, runner, dreamer, rookie hiker*
+
 I’m a **Robotics Controls Engineer** passionate about building intelligent, reliable, and safe autonomous systems. My interests lie at the intersection of **nonlinear control, hybrid systems, and optimization**, with applications across robotics, UAVs, and autonomous vehicles.
 
 I'm interested in developing both **theoretical methods** and **computational tools** in designing **provably safe control and planning/learning algorithms** from the ground up—leveraging tools from control theory, vehicle dynamics, and learning-based methods to solve real-world challenges in autonomous systems, flight control, and decision-making.
