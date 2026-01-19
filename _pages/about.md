@@ -10,7 +10,7 @@ redirect_from:
 ---
 *Robotics Controls Algorithms Engineer, mediocre tinkerer, part-time EE, runner, dreamer, rookie hiker*
 
-I’m a **Robotics Controls Engineer** passionate about building intelligent, reliable, and safe autonomous systems. My interests lie at the intersection of **nonlinear control, hybrid/networked systems, and optimization**, with applications across robotics, UAVs, and autonomous vehicles.
+I’m a **Robotics Controls Algorithms Engineer** passionate about building intelligent, reliable, and safe autonomous systems. My interests lie at the intersection of **nonlinear control, hybrid/networked systems, and optimization**, with applications across robotics, UAVs, and autonomous vehicles.
 
 I'm interested in developing both **theoretical methods** and **computational tools** in designing **provably safe control and planning/learning algorithms** from the ground up—leveraging tools from control theory, vehicle dynamics, and learning-based methods to solve real-world challenges in autonomous systems, flight control, and decision-making.
 
@@ -25,7 +25,7 @@ I'm interested in developing both **theoretical methods** and **computational to
 * Auto-generated table of contents
 {:toc}
 ---
-## Distributed Control and Manipulation 
+## Distributed Control, Coordination and Manipulation 
 Part of M.S. Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work with Dr. Acosta from the University of Seville, Spain. 
 * Developed a decentralized multi-robot control framework for cooperative manipulation tasks. In this project, multiple quadrotor UAVs work together to transport a payload without requiring constant inter-robot communication. Designed adaptive force-sharing controllers that regulate payload forces while all agents coordinate their motion. 
 * Demonstrated stable payload transport even with unknown payload mass or external disturbances, and validated the approach in simulation and experiments.
@@ -126,7 +126,7 @@ Part of M.S. Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work 
 </video> 
 
 
-## Autonomous Control of UAV 
+## Autonomous Control and Planning of UAV 
 * Developed UAV dynamic models and implemented PD, PID, LQR/LQ, nonlinear Lyapunov-based, sliding-mode, backstepping, and Cartesian impedance controllers.
 * Implemented geometric attitude control for quadrotors and differential flatness-based trajectory generation.
 * Built quadrotor simulations in MATLAB/Simulink and ROS.
