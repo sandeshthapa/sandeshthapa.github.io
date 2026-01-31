@@ -30,7 +30,7 @@ I'm interested in developing both **theoretical methods** and **computational to
 ## Autonomous Control and Planning of UAV 
 * Developed UAV dynamic models and implemented PD, PID, LQR/LQ, nonlinear Lyapunov-based, sliding-mode, backstepping, and Cartesian impedance controllers.
 * Implemented geometric attitude control for quadrotors and differential flatness-based trajectory generation.
-* Built quadrotor simulations in MATLAB/Simulink and ROS.
+* Built quadrotor simulations in MATLAB/Simulink, Gazebo, PX4 SITL, and ROS.
 * Built **autopilot system for a quadrotor UAV**, encompassing state estimation, path planning, and control. Implemented cascaded control loops for attitude, altitude, and position using both classical and modern control techniques (PID, LQR, nonlinear geometric control, and Model Predictive Control).
 
 ### State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
