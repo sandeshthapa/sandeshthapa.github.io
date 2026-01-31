@@ -31,9 +31,8 @@ I'm interested in developing both **theoretical methods** and **computational to
 * Developed UAV dynamic models and implemented PD, PID, LQR/LQ, nonlinear Lyapunov-based, sliding-mode, backstepping, and Cartesian impedance controllers.
 * Implemented geometric attitude control for quadrotors and differential flatness-based trajectory generation.
 * Built quadrotor simulations in MATLAB/Simulink and ROS.
-* Built an end-to-end **autopilot system for a quadrotor UAV**, encompassing state estimation, path planning, and control. Implemented cascaded control loops for attitude, altitude, and position using both classical and modern control techniques (PID, LQR, nonlinear geometric control, and Model Predictive Control).
-* Incorporated sensor fusion (accelerometer, gyroscope, GPS) for state estimation and used the PX4 flight stack for hardware implementation.
-* The UAV was able to autonomously take off, navigate through waypoints, and land with minimal steady-state error, demonstrating robust performance of the control system against wind disturbances and sensor noise.
+* Built **autopilot system for a quadrotor UAV**, encompassing state estimation, path planning, and control. Implemented cascaded control loops for attitude, altitude, and position using both classical and modern control techniques (PID, LQR, nonlinear geometric control, and Model Predictive Control).
+
 ### State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
 Designed and implemented full state time varying LQR and implemented in real-time Gazebo and PX4
 ![LQR Control ](../images/LQR_Control%20.png)
