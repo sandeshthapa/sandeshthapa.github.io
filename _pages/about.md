@@ -161,9 +161,7 @@ Part of M.S. Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work 
 </video> 
 
 
-
-
-## Safety Crtical Control 
+## Safety Critical Control 
 Safety Embedded PID Control for Robotics and Automation. Work in Progress. 
 
 
