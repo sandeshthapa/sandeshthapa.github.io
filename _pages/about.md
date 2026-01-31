@@ -25,6 +25,45 @@ I'm interested in developing both **theoretical methods** and **computational to
 * Auto-generated table of contents
 {:toc}
 ---
+
+
+## Autonomous Control and Planning of UAV 
+* Developed UAV dynamic models and implemented PD, PID, LQR/LQ, nonlinear Lyapunov-based, sliding-mode, backstepping, and Cartesian impedance controllers.
+* Implemented geometric attitude control for quadrotors and differential flatness-based trajectory generation.
+* Built quadrotor simulations in MATLAB/Simulink and ROS.
+* Built an end-to-end **autopilot system for a quadrotor UAV**, encompassing state estimation, path planning, and control. Implemented cascaded control loops for attitude, altitude, and position using both classical and modern control techniques (PID, LQR, nonlinear geometric control, and Model Predictive Control).
+* Incorporated sensor fusion (accelerometer, gyroscope, GPS) for state estimation and used the PX4 flight stack for hardware implementation.
+* The UAV was able to autonomously take off, navigate through waypoints, and land with minimal steady-state error, demonstrating robust performance of the control system against wind disturbances and sensor noise.
+### State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
+Designed and implemented full state time varying LQR and implemented in real-time Gazebo and PX4
+![LQR Control ](../images/LQR_Control%20.png)
+
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/LQR_control.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Quadrotor UAV Cascaded PID Control in PX4 
+<video width="50%" controls autoplay loop muted>
+  <source src="../images/PX4_PID_Control.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+###  Offboard Velocity Control 
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/offboard_velocity_px4_gazebo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### 3D Trajectory Generation of UAV  
+![Parallel Parking Trajectory Generation ](../images/trajGen.png)
+
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/Minimum_Snap_Trajectory_Generation_Simulation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Distributed Control, Coordination and Manipulation 
 Part of M.S. Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work with Dr. Acosta from the University of Seville, Spain. 
 * Developed a decentralized multi-robot control framework for cooperative manipulation tasks. In this project, multiple quadrotor UAVs work together to transport a payload without requiring constant inter-robot communication. Designed adaptive force-sharing controllers that regulate payload forces while all agents coordinate their motion. 
@@ -69,7 +108,7 @@ Part of M.S. Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work 
   </iframe>
 </div>
 
-## Learning Based Control and Estimation 
+## Learning 4 Control and Estimation 
 * Implemented a **concurrent learning** adaptive control algorithm for a team of robots transporting a common load. This approach enables real-time estimation of unknown parameters (such as payload mass and drag) and simultaneously drives all agents and the payload to a desired trajectory.
 * The algorithm guarantees parameter convergence (e.g., the estimated mass converges to the true mass) and improves transient performance by using past data to relax excitation requirements. Achieved accurate force regulation and synchronized motion in simulations, laying the groundwork for safer adaptive controllers in uncertain environments. 
 
@@ -115,9 +154,6 @@ Part of M.S. Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work 
   Your browser does not support the video tag.
 </video> 
 
-### Control Barrier Functions
-![CBFs](../images/CBFS.png)
-
 
 ### Pure Pursuit Based Control 
 <video width="100%" controls autoplay loop muted>
@@ -126,41 +162,17 @@ Part of M.S. Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work 
 </video> 
 
 
-## Autonomous Control and Planning of UAV 
-* Developed UAV dynamic models and implemented PD, PID, LQR/LQ, nonlinear Lyapunov-based, sliding-mode, backstepping, and Cartesian impedance controllers.
-* Implemented geometric attitude control for quadrotors and differential flatness-based trajectory generation.
-* Built quadrotor simulations in MATLAB/Simulink and ROS.
-* Built an end-to-end **autopilot system for a quadrotor UAV**, encompassing state estimation, path planning, and control. Implemented cascaded control loops for attitude, altitude, and position using both classical and modern control techniques (PID, LQR, nonlinear geometric control, and Model Predictive Control).
-* Incorporated sensor fusion (accelerometer, gyroscope, GPS) for state estimation and used the PX4 flight stack for hardware implementation.
-* The UAV was able to autonomously take off, navigate through waypoints, and land with minimal steady-state error, demonstrating robust performance of the control system against wind disturbances and sensor noise.
-### State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
-Designed and implemented full state time varying LQR and implemented in real-time Gazebo and PX4
-![LQR Control ](../images/LQR_Control%20.png)
 
-<video width="100%" controls autoplay loop muted>
-  <source src="../images/LQR_control.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-### Quadrotor UAV Cascaded PID Control in PX4 
-<video width="50%" controls autoplay loop muted>
-  <source src="../images/PX4_PID_Control.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Safety Crtical Control 
+Safety Embedded PID Control for Robotics and Automation. Work in Progress. 
 
-###  Offboard Velocity Control 
-<video width="100%" controls autoplay loop muted>
-  <source src="../images/offboard_velocity_px4_gazebo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-### 3D Trajectory Generation of UAV  
-![Parallel Parking Trajectory Generation ](../images/trajGen.png)
+### Control Barrier Functions
+![CBFs](../images/CBFS.png)
 
-<video width="100%" controls autoplay loop muted>
-  <source src="../images/Minimum_Snap_Trajectory_Generation_Simulation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+![PID Control Exploded View](../images/pidcontrolexploded.png)
 
 ## Aerial Manipulator Design 
 
@@ -178,10 +190,6 @@ Designed and implemented full state time varying LQR and implemented in real-tim
   </iframe>
 </div>
 
-## Safety Embedded Control 
-Safety Embedded PID Control for Robotics and Automation. Work in Progress. 
-
-![PID Control Exploded View](../images/pidcontrolexploded.png)
 
 ### Bio / Context 
 
