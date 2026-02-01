@@ -27,11 +27,17 @@ I'm interested in developing both **theoretical methods** and **computational to
 ---
 
 
-## Autonomous Control and Planning of UAV 
+## UAV Dynamics, Autonomous Control and Trajectory Planning
 * Developed UAV dynamic models and implemented PD, PID, LQR/LQ, nonlinear Lyapunov-based, sliding-mode, backstepping, and Cartesian impedance controllers.
 * Implemented geometric attitude control for quadrotors and differential flatness-based trajectory generation.
 * Built quadrotor simulations in MATLAB/Simulink, Gazebo, PX4 SITL, and ROS.
 * Built **autopilot system for a quadrotor UAV**, encompassing state estimation, path planning, and control. Implemented cascaded control loops for attitude, altitude, and position using both classical and modern control techniques (PID, LQR, nonlinear geometric control, and Model Predictive Control).
+
+### Quadrotor UAV Cascaded PID Control in PX4 
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/PX4_PID_Control.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
 Designed and implemented full state time varying LQR and implemented in real-time Gazebo and PX4
@@ -42,11 +48,6 @@ Designed and implemented full state time varying LQR and implemented in real-tim
   Your browser does not support the video tag.
 </video>
 
-### Quadrotor UAV Cascaded PID Control in PX4 
-<video width="50%" controls autoplay loop muted>
-  <source src="../images/PX4_PID_Control.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ###  Offboard Velocity Control 
 <video width="100%" controls autoplay loop muted>
@@ -107,6 +108,20 @@ Part of M.S. Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work 
   </iframe>
 </div>
 
+### Aerial Manipulator Flight Test 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Aerial Manipulator Design
+<div align="center">
+  <iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/lgTVWmbpyd0" 
+  title="Aerial Manipulator Design." 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+  </iframe>
+</div>
+
 ## Learning 4 Control and Estimation 
 * Implemented a **concurrent learning** adaptive control algorithm for a team of robots transporting a common load. This approach enables real-time estimation of unknown parameters (such as payload mass and drag) and simultaneously drives all agents and the payload to a desired trajectory.
 * The algorithm guarantees parameter convergence (e.g., the estimated mass converges to the true mass) and improves transient performance by using past data to relax excitation requirements. Achieved accurate force regulation and synchronized motion in simulations, laying the groundwork for safer adaptive controllers in uncertain environments. 
@@ -160,8 +175,7 @@ Part of M.S. Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work 
   Your browser does not support the video tag.
 </video> 
 
-
-## Safety Critical Control 
+## Safety Critical Control (Control Barrier Functions and Safety Certificates)
 Safety Embedded PID Control for Robotics and Automation. Work in Progress. 
 
 
@@ -171,21 +185,7 @@ Safety Embedded PID Control for Robotics and Automation. Work in Progress.
 
 ![PID Control Exploded View](../images/pidcontrolexploded.png)
 
-## Aerial Manipulator Design 
 
-### Aerial Manipulator Flight Test 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#### Aerial Manipulator Design
-<div align="center">
-  <iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/lgTVWmbpyd0" 
-  title="Aerial Manipulator Design." 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  allowfullscreen>
-  </iframe>
-</div>
 
 
 ### Bio / Context 
