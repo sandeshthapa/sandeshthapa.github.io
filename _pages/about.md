@@ -20,7 +20,7 @@ I'm interested in developing both **theoretical methods** and **computational to
 - **Current Research Interest:** Provably safe control, adaptive autonomy and motion planning of autonomous systems, decision making under uncertainty, distributed control and estimation, multi-vehicle coordination and control, aerial robotics,
 
 ---
-### Selected Projects 
+#### Selected Projects 
 ---
 * Auto-generated table of contents
 {:toc}
