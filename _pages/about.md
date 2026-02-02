@@ -49,7 +49,7 @@ Designed and implemented full state time varying LQR and implemented in real-tim
 </video>
 
 
-###  Offboard Velocity Control 
+####  Offboard Velocity Control 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/offboard_velocity_px4_gazebo.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -97,7 +97,7 @@ Part of M.S. Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work 
   allow="accelerometer; autoploes not support the video tag.
 </video>
 
-### Cooperative Control with time-varying velocity
+#### Cooperative Control with time-varying velocity
 <div align="center">
   <iframe width="560" height="315" 
   src="https://www.youtube.com/embed/tDgRc_d6Nqo" 
@@ -108,10 +108,10 @@ Part of M.S. Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work 
   </iframe>
 </div>
 
-### Aerial Manipulator Flight Test 
+#### Aerial Manipulator Flight Test 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Aerial Manipulator Design
+##### Aerial Manipulator Design
 <div align="center">
   <iframe width="560" height="315" 
   src="https://www.youtube.com/embed/lgTVWmbpyd0" 
@@ -131,10 +131,10 @@ Part of M.S. Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work 
 ### Drag Force Estimation 
 ![Drag Force Estimation Example ](../images/VelLoadB.png)
 
-### Contact Force Acting on the Payload 
+#### Contact Force Acting on the Payload 
 ![Contact Force Estimation Results ](../images/f1dTildeB.png)
 
-### Simulation with Time-Varying Velocity 
+#### Simulation with Time-Varying Velocity 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/LSS_2019_TimeVarVelocity.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -176,19 +176,14 @@ Part of M.S. Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work 
 </video> 
 
 ## Safety Critical Control (Control Barrier Functions and Safety Certificates)
-Safety Embedded PID Control for Robotics and Automation. Work in Progress. 
-
-
+ 
 ### Control Barrier Functions
 ![CBFs](../images/CBFS.png)
 
-
+### Safety Embedded PID Control for Robotics and Automation. Work in Progress.
 ![PID Control Exploded View](../images/pidcontrolexploded.png)
 
-
-
-
-### Bio / Context 
+#### Bio / Context 
 
 I'm a Controls Engineer for robotics, autonomous vehicles, and UAVs. I love designing safety-critical control and planning algorithms from the ground up using tools from control theory, optimization, vehicle dynamics, robotics, learning, and planning. I'm interested in the intersection of theory and applications. I enjoy developing practical and safe algorithms and applying them to solve real problems in autonomous vehicle controls, flight controls, navigation, decision making, autonomy, and robotics. I have developed, implemented, and published various trajectory tracking control and planning and coordination algorithms for both multi-rotors and mobile robots/vehicles using LQR, PID, MPC, Adaptive, Nonlinear, Path planning based on clothoids, differential flatness, splines, and so on using C++, Python, ROS/Gazebo, MATLAB/Simulink, both in simulation and real-time systems using PX4, dSpace, C++/ROS.
 
@@ -196,7 +191,7 @@ I received my Master's in Mechanical and Aerospace Engineering at Oklahoma State
 
 During my M.S., I worked on Aerial robotics and Control with a focus on cooperative aerial manipulation and control of multi-agents. We published 3 peer-reviewed conference papers and 2 journals
 
-### Current Research Interest 
+#### Current Research Interest 
 
 My interest lies in the intersection of control, planning, and learning for autonomous systems. I’m interested in the balance between theoretical analysis and practical implementation on hardware systems in a multi-disciplinary environment. My overall goal is to be a full-stack controls and robotics researcher using tools ranging from control design, autonomous planning, decision making, and implementation on real-time hardware systems. 
 
@@ -215,17 +210,17 @@ In general, I'm interested in both deep theoretical foundations and practical ap
 - Planning/Decision making under uncertainty 
 
 
-### Education
+####  Education
 
-### M.S. in Mechanical & Aerospace Engineering, Oklahoma State University, 2018
+#### M.S. in Mechanical & Aerospace Engineering, Oklahoma State University, 2018
    * Robotics & Controls 
 
-### B.S. in Mechanical Engineering, McNeese State University, 2015
+#### B.S. in Mechanical Engineering, McNeese State University, 2015
    * Mechanical Engineering 
   
 
-### Work Experience
-### Technical Lead, Controls Software
+####  Work Experience
+####  Technical Lead, Controls Software
 **Amogy INC**, Brooklyn, NY | *Aug 2022 – Present*
 
 * Control Algorithms development, testing, and validation of the fully autonomous Amogy System.
@@ -241,7 +236,7 @@ In general, I'm interested in both deep theoretical foundations and practical ap
 * Advise and mentor junior controls, HIL, embedded, and electrical engineers.
 * **Tools:** C/C++, Python, MATLAB, CAN, CANape, CANalyzer, dSPACE, Code Generation, TCP/IP Networking.
 
-### Research Engineer (Autonomous Driving - Planning and Controls)
+#### Research Engineer (Autonomous Driving - Planning and Controls)
 **Ford Motor Company**, Dearborn, MI | *Jan 2021 – Jun 2022*
 
 * Research in advanced controls and planning; designed low-speed path planning and control algorithms for autonomous parallel parking, auto-hitch, nudge maneuvers, state machines, and V2V localization/collision-avoidance.
@@ -251,7 +246,7 @@ In general, I'm interested in both deep theoretical foundations and practical ap
 * Conducted testing, validation, and refinement of autonomous driving features.
 * **Tools:** Simulink, Stateflow, ROS, C/C++, TCP/IP, dSPACE, CANape, CANalyzer.
 
-### Senior Controls Engineer, Autonomy
+#### Senior Controls Engineer, Autonomy
 **The Drone Racing League**, New York, NY | *Jul 2019 – Jan 2021*
 
 * Led research, development, and implementation of control algorithms for autonomous drones, focusing on position and attitude control for trajectory tracking.
@@ -260,18 +255,18 @@ In general, I'm interested in both deep theoretical foundations and practical ap
 * Implemented solvers for **Algebraic Riccati Equations in C++** to support control algorithm development.
 * Conducted real-time flight testing, algorithm testing, and debugging for autonomous flight.
 * **Tools:** C/C++, ROS, PX4, Gazebo, Eigen, CMake, Python, MATLAB/Simulink.
-### Robotics Controls Engineer - March 2019- July 2019 
+#### Robotics Controls Engineer - March 2019- July 2019 
   * Deka Research and Development, Manchester, NH 
   * Autonomous robots, offline path planning, and controls
   
-### Updates 
+####  Updates 
 - 
 
-###  Other Interests 
+####  Other Interests 
 ![Winter run in Hoboken](../images/running_hoboken_osu.jpg)
 
 
 ![May the drones be with you](../images/IMG_drl.JPG)
 
 
-### Email: thapasandesh1@gmail.com
+#### Email: thapasandesh1@gmail.com
