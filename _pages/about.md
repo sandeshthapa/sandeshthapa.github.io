@@ -23,7 +23,7 @@ I'm interested in developing both **theoretical methods** and **computational to
 **Selected Projects**
 ---
 * Auto-generated table of contents
-{:toc}
+{:toc }
 ---
 
 
