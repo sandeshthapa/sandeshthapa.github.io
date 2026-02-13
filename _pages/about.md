@@ -27,7 +27,8 @@ I'm interested in developing both **theoretical methods** and **computational to
 ---
 
 
-## UAV Dynamics, Autonomous Control and Trajectory Planning
+## UAV Autonomy
+![UAV Autonomy ](../images/drone_achitecture.png)
 * Developed UAV dynamic models and implemented PD, PID, LQR/LQ, nonlinear Lyapunov-based, sliding-mode, backstepping, and Cartesian impedance controllers.
 * Implemented geometric attitude control for quadrotors and differential flatness-based trajectory generation.
 * Built quadrotor simulations in MATLAB/Simulink, Gazebo, PX4 SITL, and ROS.
@@ -63,8 +64,7 @@ Designed and implemented full state time varying LQR and implemented in real-tim
   Your browser does not support the video tag.
 </video>
 
-### UAV Autonomy 
-![UAV Autonomy ](../images/drone_achitecture.png)
+
 
 ## Distributed Control, Coordination and Manipulation 
 Part of M.S. Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work with Dr. Acosta from the University of Seville, Spain. 
