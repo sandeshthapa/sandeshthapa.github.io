@@ -63,6 +63,8 @@ Designed and implemented full state time varying LQR and implemented in real-tim
   Your browser does not support the video tag.
 </video>
 
+### UAV Autonomy 
+![UAV Autonomy ](../images/drone_achitecture.png)
 
 ## Distributed Control, Coordination and Manipulation 
 Part of M.S. Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work with Dr. Acosta from the University of Seville, Spain. 
