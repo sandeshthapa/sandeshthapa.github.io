@@ -8,22 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a **robotics and controls research engineer** working on **safety-critical control and motion planning for autonomous systems and robotics**. My research sits at the intersection of **nonlinear, adaptive, and optimal control**, **distributed control and estimation**, and **learning and decision making under uncertainty**.
+I am a **robotics and controls research engineer** working on **safety-critical control and motion planning for robots and multi-agent systems**. My work pairs rigorous control theory with hands-on validation on real hardware, driven by one conviction: **safety is the central bottleneck in deploying physical AI** — for a single robot and, even more so, for teams of them that must stay safe while coordinating.
 
-I am interested in developing both the **theory** and the **computational tools** for **provably safe control and planning** — composing actuator-level safety architectures with state-space safety filters (control barrier functions, Hamilton–Jacobi reachability) and validating them on real aerial and ground robots under embedded, real-time constraints.
-
-
-I am currently a **Visiting Researcher** in the [ETAIC Lab](https://etaic.github.io/) at the **University of Texas at Arlington** (host: Dr. H. Eric Tseng, NAE Member), and I am applying to PhD programs in controls and robotics. My current research develops safety-aware algorithms for robotics, sitting at the intersection of nonlinear control theory, reinforcement learning, and robotics.
+A recurring gap in safety-critical control lies between **formal, state-space guarantees** — control barrier functions, Hamilton–Jacobi reachability, predictive safety filters — which assume an analytical model and idealized actuators, and the **actuator-level methods** used in real deployments — input bounding, anti-windup, bumpless transfer — which carry no such guarantees. Real robots, bound by hard safety limits and by uncertain or partially known dynamics, need both — and the challenge compounds when many agents share an environment. I am interested in **guaranteeing end-to-end safety, from a single robot to a multi-agent team, using reduced-order or uncertain models — under bounded model uncertainty and unmodeled dynamics — at a computational cost light enough for real-time embedded hardware**.
 
 **Research interests**
-- Safety-critical control and motion planning of autonomous and robotic systems
-- Distributed control, estimation, and multi-vehicle coordination
-- Learning and decision making under uncertainty
+- Safety-critical control and motion planning for robots and multi-agent systems
+- Distributed and decentralized control, estimation, and multi-vehicle coordination
+- Composing actuator-level and state-space safety guarantees under model uncertainty
 - Nonlinear, adaptive, and optimal control; control barrier functions and reachability
-- Trajectory optimization and motion planning for aerial and ground vehicles
+- Learning and decision making under uncertainty; trajectory optimization and planning
+
+I am currently a **Visiting Researcher** in the [ETAIC Lab](https://etaic.github.io/members/) at the University of Texas at Arlington (host: Dr. H. Eric Tseng, NAE Member), and I am applying to PhD programs in controls and robotics.
 
 See my [publications](/publications/), [research](/research/), and [CV](/cv/) for details.
-
 ---
 
 ## Selected Research & Projects
