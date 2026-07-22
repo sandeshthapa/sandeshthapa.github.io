@@ -83,9 +83,9 @@ author:
   name             : "Sandesh Thapa"
   avatar           : "../images/IMG_drl.JPG"  #"montauk_cropped.jpg" 
 
-  bio              : "Safety-critical control & motion planning for autonomous systems and robotics; distributed control, learning, and decision making."
+  bio              : "Safety-critical control & planning; distributed control, learning, and decision making."
   location         : "Jersey City, NJ"
-  employer         : "UT Arlington — ETAIC Lab (Visiting Researcher)"
+  employer         : "UT Arlington — ETAIC Lab"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cfdDO_wAAAAJ&hl=en"
   email            :
