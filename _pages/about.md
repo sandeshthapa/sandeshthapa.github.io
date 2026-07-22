@@ -32,7 +32,7 @@ See my [publications](/publications/), [research](/research/), and [CV](/cv/) fo
 {:toc}
 
 
-### Safety-Critical Control (CBFs and Safety Certificates)
+### Safety-Critical Control (CBFs and Safety Certificates - Current Research)
 
 **Safety-critical control — current directions**
 - Safety certificates for low-level control loops 
