@@ -11,3 +11,9 @@ main:
 
   - title: "CV"
     url: /cv/
+
+  - title: "Travel"
+    url: /travel/
+
+  - title: "Tribute"
+    url: /tribute/
