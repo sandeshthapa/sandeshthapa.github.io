@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Assistant — Elementary Dynamics (ENSC 2123)"
 collection: teaching
-type: "MAE 2123 Engineering Dynamics"
-permalink: /teaching/2016-spring-teaching-1
+type: "Undergraduate course"
+permalink: /teaching/ensc-2123-dynamics
 venue: "School of Mechanical & Aerospace Engineering, Oklahoma State University"
-date: 2016-01-01
-location: "Stillwater , Oklahoma"
+date: 2016-08-01
+location: "Stillwater, Oklahoma"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching assistant for Elementary Dynamics (ENSC 2123): led discussion sessions, delivered partial lectures, and graded coursework.

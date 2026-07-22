@@ -1,274 +1,181 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "Robotics Controls Engineer specializing in provably safe and optimization-based control systems."
+title: "About"
+excerpt: "Robotics & controls research engineer working on safety-critical control and motion planning for autonomous systems."
 author_profile: true
-bg_img : 'https://github.com/sandeshthapa/sandeshthapa.github.io/images/running_hoboken_osu.jpg'
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-*Robotics Controls Algorithms Engineer, mediocre tinkerer, part-time EE, runner, dreamer, rookie hiker*
 
-I’m a **Robotics Controls Algorithms Engineer** passionate about building intelligent, reliable, and safe autonomous systems. My interests lie at the intersection of **nonlinear control, hybrid/networked systems, and optimization**, with applications across robotics, UAVs, and autonomous vehicles.
+I am a **robotics and controls research engineer** working on **safety-critical control and motion planning for autonomous systems and robotics**. My research sits at the intersection of **nonlinear, adaptive, and optimal control**, **distributed control and estimation**, and **learning and decision making under uncertainty**.
 
-I'm interested in developing both **theoretical methods** and **computational tools** in designing **provably safe control and planning/learning algorithms** from the ground up—leveraging tools from control theory, vehicle dynamics, and learning-based methods to solve real-world challenges in autonomous systems, flight control, and decision-making.
+I am interested in developing both the **theory** and the **computational tools** for **provably safe control and planning** — composing actuator-level safety architectures with state-space safety filters (control barrier functions, Hamilton–Jacobi reachability) and validating them on real aerial and ground robots under embedded, real-time constraints.
 
-- **Research Focus:** Controls, Robotics, Learning, and Autonomy
-- **Languages:** C/C++, MATLAB/Simulink, Stateflow, Python
-- **Platforms:** **ROS**, dSPACE, MicroAutoBox II, Raspberry Pi, Jetson, VCU, ECU Scalexio, CANape, CANalyzer, **PX4-Autopilot**, UDP Ethernet, CANdb++, QGroundControl, PX4-SITL
-- **Current Research Interest:** Provably safe control, adaptive autonomy and motion planning of autonomous systems, decision making under uncertainty, distributed control and estimation, multi-vehicle coordination and control, aerial robotics,
+I am currently a **Visiting Researcher** in the ETAIC Lab at the **University of Texas at Arlington** (host: Dr. H. Eric Tseng, NAE Member), and I am applying to PhD programs in controls and robotics.
+
+**Research interests**
+- Safety-critical control and motion planning of autonomous and robotic systems
+- Distributed control, estimation, and multi-vehicle coordination
+- Learning and decision making under uncertainty
+- Nonlinear, adaptive, and optimal control; control barrier functions and reachability
+- Trajectory optimization and motion planning for aerial and ground vehicles
+
+See my [publications](/publications/), [research](/research/), and [CV](/cv/) for details.
 
 ---
-**Selected Projects**
----
+
+## Selected Research & Projects
+
 * Auto-generated table of contents
-{:toc }
----
+{:toc}
 
+### Autonomous Quadrotor UAV Control
+![UAV Autonomy](../images/drone_achitecture.png)
 
-## UAV Autonomy
-![UAV Autonomy ](../images/drone_achitecture.png)
-* Developed UAV dynamic models and implemented PD, PID, LQR/LQ, nonlinear Lyapunov-based, sliding-mode, backstepping, and Cartesian impedance controllers.
-* Implemented geometric attitude control for quadrotors and differential flatness-based trajectory generation.
-* Built quadrotor simulations in MATLAB/Simulink, Gazebo, PX4 SITL, and ROS.
-* Built **autopilot system for a quadrotor UAV**, encompassing state estimation, path planning, and control. Implemented cascaded control loops for attitude, altitude, and position using both classical and modern control techniques (PID, LQR, nonlinear geometric control, and Model Predictive Control).
+* Cascaded PID, state-dependent LQR, nonlinear Lyapunov-based, sliding-mode, backstepping, geometric SE(3), and Cartesian impedance controllers for quadrotor trajectory tracking.
+* Geometric attitude control and differential-flatness-based minimum-snap trajectory generation.
+* End-to-end autopilot integrating state estimation, planning, and control, validated in MATLAB/Simulink, Gazebo, PX4 SITL, ROS, and on real quadrotor hardware.
 
-### Quadrotor UAV Cascaded PID Control in PX4 
+#### Cascaded PID Control in PX4
 <video width="100%" controls autoplay loop muted>
   <source src="../images/PX4_PID_Control.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### State Dependent LQR for Autonomous Trajectory Tracking of Quadrotor UAV 
-Designed and implemented full state time varying LQR and implemented in real-time Gazebo and PX4
-![LQR Control ](../images/LQR_Control%20.png)
+#### State-Dependent LQR for Trajectory Tracking
+Full-state time-varying LQR designed and implemented in real time in Gazebo and PX4.
+![LQR Control](../images/LQR_Control%20.png)
 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/LQR_control.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-
-####  Offboard Velocity Control 
+#### Offboard Velocity Control
 <video width="100%" controls autoplay loop muted>
   <source src="../images/offboard_velocity_px4_gazebo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### 3D Trajectory Generation of UAV  
-![Parallel Parking Trajectory Generation ](../images/trajGen.png)
+#### Minimum-Snap 3D Trajectory Generation
+![Trajectory Generation](../images/trajGen.png)
 
 <video width="100%" controls autoplay loop muted>
   <source src="../images/Minimum_Snap_Trajectory_Generation_Simulation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+### Distributed Control, Coordination, and Manipulation
+M.S. research at Oklahoma State University with Dr. He Bai (CoRAL Lab), jointly with Dr. J. Á. Acosta (University of Seville, Spain).
 
+* Decentralized multi-robot control framework for cooperative aerial manipulation: multiple quadrotor UAVs transport a shared payload **without constant inter-robot communication**.
+* Adaptive force-sharing controllers regulate payload forces while all agents coordinate their motion, with stable transport under unknown payload mass and external disturbances — validated in simulation and physical flight tests.
 
-## Distributed Control, Coordination and Manipulation 
-Part of M.S. Research Work at Oklahoma State with Dr. He Bai at OSU. Joint work with Dr. Acosta from the University of Seville, Spain. 
-* Developed a decentralized multi-robot control framework for cooperative manipulation tasks. In this project, multiple quadrotor UAVs work together to transport a payload without requiring constant inter-robot communication. Designed adaptive force-sharing controllers that regulate payload forces while all agents coordinate their motion. 
-* Demonstrated stable payload transport even with unknown payload mass or external disturbances, and validated the approach in simulation and experiments.
+![Cooperative control](../images/newagents4.png)
 
-![coop control ](../images/newagents4.png)
+**Related publications:**
+* **[J2]** Thapa S., Bai H., Acosta J.A. *Cooperative Aerial Manipulation with Decentralized Adaptive Force-Consensus Control.* Journal of Intelligent & Robotic Systems (JINT), 2020.
+* **[C1]** Thapa S., Bai H., Acosta J.A. *Cooperative Aerial Load Transport with Attitude Stabilization.* American Control Conference (ACC), 2018.
+* **[C2]** Thapa S., Bai H., Acosta J.A. *Force Control in Cooperative Aerial Manipulation.* IEEE ICUAS, 2018.
+* **[C3]** Thapa S., Bai H., Acosta J.A. *Cooperative Aerial Load Transport with Force Control.* IFAC NAASS, 2018.
 
-**Relevant Publications:** 
-* **[J2.] Thapa S.**, Bai H., and Acosta J.A. *Cooperative Aerial Manipulation with Decentralized Adaptive Force-Consensus Control*. Journal of Intelligent & Robotic Systems, Jan, 2020
-* **[C1.] Thapa S.**, Bai H, and Acosta J.A. *Cooperative Aerial Load Transport with Attitude Stabilization*. 2018 American Control Conference (ACC).
-* **[C2.] Thapa S.**, Bai H., and Acosta J.A. *Force Control in Cooperative Aerial Manipulation*. IEEE International Conference on Unmanned Aircraft Systems (ICUAS), June 12-15, 2018
-* **[C3.] Thapa S.**, Bai H., and Acosta J.A. *Cooperative Aerial Load Transport with Force Control*. IFAC Workshop on Networked & Autonomous Air & Space Systems, June 12-14, 2018
-
-### Cooperative Control of Unknown Payload, Adaptive Control, and Consensus Control.  
+#### Cooperative Manipulation of an Unknown Payload
 <video width="100%" controls autoplay loop muted>
   <source src="../images/KnownMass5.mp4" type="video/mp4">
-  Your browser dht="315" 
-  src="https://www.youtube.com/embed/lgTVWmbpyd0" 
-  title="YouTube video player." 
-  frameborder="0" 
-  allow="accelerometer; autoploes not support the video tag.
-</video>
-
-### Cooperative Attitude Control 
-<video width="100%" controls autoplay loop muted>
-  <source src="../images/Anim_new_control.mp4" type="video/mp4">
-  Your browser dht="315" 
-  src="https://www.youtube.com/embed/lgTVWmbpyd0" 
-  title="YouTube video player." 
-  frameborder="0" 
-  allow="accelerometer; autoploes not support the video tag.
-</video>
-
-#### Cooperative Control with time-varying velocity
-<div align="center">
-  <iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/tDgRc_d6Nqo" 
-  title="Autonomous Flight Control Implementation Example." 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  allowfullscreen>
-  </iframe>
-</div>
-
-#### Aerial Manipulator Flight Test 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vBqVEjUz4NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-##### Aerial Manipulator Design
-<div align="center">
-  <iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/lgTVWmbpyd0" 
-  title="Aerial Manipulator Design." 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  allowfullscreen>
-  </iframe>
-</div>
-
-## Learning 4 Control and Estimation 
-* Implemented a **concurrent learning** adaptive control algorithm for a team of robots transporting a common load. This approach enables real-time estimation of unknown parameters (such as payload mass and drag) and simultaneously drives all agents and the payload to a desired trajectory.
-* The algorithm guarantees parameter convergence (e.g., the estimated mass converges to the true mass) and improves transient performance by using past data to relax excitation requirements. Achieved accurate force regulation and synchronized motion in simulations, laying the groundwork for safer adaptive controllers in uncertain environments. 
-
-* **[J1.] Thapa S.**, Self R., Bai H., and Kamalapurkar, R. *Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag Force Estimation.* IEEE Control Systems Letters (L-CSS) with an option to present in CDC, 2019.
-
-### Drag Force Estimation 
-![Drag Force Estimation Example ](../images/VelLoadB.png)
-
-#### Contact Force Acting on the Payload 
-![Contact Force Estimation Results ](../images/f1dTildeB.png)
-
-#### Simulation with Time-Varying Velocity 
-<video width="100%" controls autoplay loop muted>
-  <source src="../images/LSS_2019_TimeVarVelocity.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+#### Cooperative Attitude Control
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/Anim_new_control.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-### Non-linear Adaptive Geometric Control 
-![Adaptive Control Schematic ](../images/adaptivecontrol.png)
+#### Cooperative Control with Time-Varying Velocity
+<div align="center">
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/tDgRc_d6Nqo"
+  title="Cooperative control with time-varying velocity"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+  </iframe>
+</div>
 
-![Adaptive Control Results](../images/adapresult.png)
+#### Aerial Manipulator Flight Test
+<div align="center">
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/vBqVEjUz4NM"
+  title="Aerial manipulator flight test"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+  </iframe>
+</div>
 
-## Autonomous Vehicle Planning and Control 
-* Researched different control **strategies** for **autonomous** vehicles path following **including** LQR, **nonlinear**, pure-pursuit, sliding mode, and so on. 
-* Developed **nonlinear rear-wheel** feedback control for **autonomous** vehicle trajectory tracking. 
-* **Developed clothoid-based** path planner for vehicle planning for parallel parking and auto-hitch. 
-* **Worked on state machines** for state transition and safety **certificates** (**CBFs**) for vehicle control and planning. 
-* Developed a simulator for validating vehicle controls and planning **algorithms**. Validated in dSPACE.
-![Parallel Parking Simulation Setup ](../images/parallel_parking.png)
+### Learning for Control and Estimation
+* **Concurrent-learning** adaptive control for a team of robots transporting a common load, enabling real-time estimation of unknown parameters (payload mass and drag) while driving all agents and the payload to a desired trajectory.
+* Guarantees parameter convergence and improves transient performance by reusing past data to relax excitation requirements, with accurate force regulation and synchronized motion in simulation.
 
-### Path Planning Based on Clothoid
-![Path Planning Implementation ](../images/planning.png)
+* **[J1]** Thapa S., Self R., Bai H., Kamalapurkar R. *Cooperative Manipulation of an Unknown Payload with Concurrent Mass and Drag Force Estimation.* IEEE Control Systems Letters (L-CSS), with CDC presentation option, 2019.
 
-### Non-linear Rear Wheel Feedback-Based Control 
-![Parallel Parking Control Schematic ](../images/control.png)
+#### Drag Force Estimation
+![Drag force estimation](../images/VelLoadB.png)
 
-![Parallel Parking Results](../images/results.png)
+#### Contact Force on the Payload
+![Contact force estimation](../images/f1dTildeB.png)
 
-### Vehicle Dynamics with Cruise Control and Lateral Control 
+#### Non-linear Adaptive Geometric Control
+![Adaptive control schematic](../images/adaptivecontrol.png)
+![Adaptive control results](../images/adapresult.png)
+
+### Autonomous Vehicle Planning and Control
+Research at Ford Motor Company, Research & Advanced Engineering (advisor: Dr. H. Eric Tseng, NAE Member).
+
+* Continuous-curvature (clothoid-based) path planner and **nonlinear rear-wheel feedback lateral controller** for autonomous parallel parking and auto-hitch (SAE L2/L3).
+* State machines and **control-barrier-function safety certificates** for autonomous function transitions and fault handling.
+* Trajectory-tracking benchmarks (pure-pursuit, LQR, PD, backstepping, nonlinear feedback); validated in simulation and on dSPACE real-time hardware.
+
+![Parallel parking setup](../images/parallel_parking.png)
+
+#### Clothoid-Based Path Planning
+![Clothoid path planning](../images/planning.png)
+
+#### Non-linear Rear-Wheel Feedback Control
+![Control schematic](../images/control.png)
+![Results](../images/results.png)
+
+#### Vehicle Dynamics with Cruise and Lateral Control
 <video width="100%" controls autoplay loop muted>
   <source src="../images/Vehicle_Dynamics_and_Cruise_Control.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video> 
+</video>
 
-
-### Pure Pursuit Based Control 
+#### Pure-Pursuit Control
 <video width="100%" controls autoplay loop muted>
   <source src="../images/pure_pursuit.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video> 
+</video>
 
-## Safety Critical Control (Control Barrier Functions and Safety Certificates)
- 
-### Control Barrier Functions
-![CBFs](../images/CBFS.png)
+### Safety-Critical Control (CBFs and Safety Certificates)
 
-### Safety Embedded PID Control for Robotics and Automation. Work in Progress.
-![PID Control Exploded View](../images/pidcontrolexploded.png)
+#### Control Barrier Functions
+![Control barrier functions](../images/CBFS.png)
 
-#### Bio / Context 
+#### Safety-Embedded PID Control for Robotics and Automation
+Discrete-event guard architecture wrapping legacy PID loops as a safety layer, with provable input-boundedness, integrator-boundedness, and bumpless-transfer properties (in preparation for IEEE RA-L).
+![Safety-embedded PID control](../images/pidcontrolexploded.png)
 
-I'm a Controls Engineer for robotics, autonomous vehicles, and UAVs. I love designing safety-critical control and planning algorithms from the ground up using tools from control theory, optimization, vehicle dynamics, robotics, learning, and planning. I'm interested in the intersection of theory and applications. I enjoy developing practical and safe algorithms and applying them to solve real problems in autonomous vehicle controls, flight controls, navigation, decision making, autonomy, and robotics. I have developed, implemented, and published various trajectory tracking control and planning and coordination algorithms for both multi-rotors and mobile robots/vehicles using LQR, PID, MPC, Adaptive, Nonlinear, Path planning based on clothoids, differential flatness, splines, and so on using C++, Python, ROS/Gazebo, MATLAB/Simulink, both in simulation and real-time systems using PX4, dSpace, C++/ROS.
+---
 
-I received my Master's in Mechanical and Aerospace Engineering at Oklahoma State University, working under Dr. He Bai at the CoRAL Lab from Aug 2016 to Dec 2018. I worked very closely with Dr. Rushikesh Kamalapurkar (currently at UF) and J.Á. Acosta at Universidad de Sevilla (Spain). 
+## Background
 
-During my M.S., I worked on Aerial robotics and Control with a focus on cooperative aerial manipulation and control of multi-agents. We published 3 peer-reviewed conference papers and 2 journals
+* **M.S., Mechanical & Aerospace Engineering** — Oklahoma State University, 2018 (Control Theory & Robotics; advisor Dr. He Bai)
+* **B.S., Mechanical Engineering** — McNeese State University, 2015
 
-#### Current Research Interest 
+**Experience:** Visiting Researcher, UT Arlington (present) · Tech Lead & Senior Controls Research Engineer, Amogy · Research Engineer (Autonomous Driving), Ford R&A · Senior Controls Engineer, The Drone Racing League · Graduate Research Assistant, Oklahoma State University.
 
-My interest lies in the intersection of control, planning, and learning for autonomous systems. I’m interested in the balance between theoretical analysis and practical implementation on hardware systems in a multi-disciplinary environment. My overall goal is to be a full-stack controls and robotics researcher using tools ranging from control design, autonomous planning, decision making, and implementation on real-time hardware systems. 
+Full details are on my [CV](/cv/).
 
-In general, I'm interested in both deep theoretical foundations and practical applications.
-
-- Control and planning of autonomous systems, nonlinear, adaptive, and optimal control
-
-- Distributed Controls and Estimation
-
-- Multi-vehicle coordination and control
-
-- Trajectory optimization and motion planning 
-
-- Aerial Robotics and Robot Autonomy 
-
-- Planning/Decision making under uncertainty 
-
-
-####  Education
-
-#### M.S. in Mechanical & Aerospace Engineering, Oklahoma State University, 2018
-   * Robotics & Controls 
-
-#### B.S. in Mechanical Engineering, McNeese State University, 2015
-   * Mechanical Engineering 
-  
-
-####  Work Experience
-####  Technical Lead, Controls Software
-**Amogy INC**, Brooklyn, NY | *Aug 2022 – Present*
-
-* Control Algorithms development, testing, and validation of the fully autonomous Amogy System.
-* Developed novel **PID Control Algorithms** for trajectory tracking that reduce actuator chattering and account for sensor error accuracy.
-* Lead Controls Engineering, including Hardware & Software Development, Controls Algorithms, State Machine Development, and Network Architecture.
-* Developed advanced control algorithms: **Nonlinear control, Hybrid controls, Filter design, and Model Predictive Control (MPC)**.
-* Designed advanced networking for redundancy, communications, and data processing.
-* Designed HMI systems and implemented noise reduction, filtering, and fault management.
-* Developed data structures to integrate different devices for advanced communication, control, and HMI.
-* Configured and integrated communication protocols (CAN, Ethernet TCP, Modbus TCP).
-* Spearheaded hardware design, including VCU, **Raspberry Pi**, and dSPACE systems.
-* Guided a multidisciplinary team, ensuring compliance with **functional safety standards**.
-* Advise and mentor junior controls, HIL, embedded, and electrical engineers.
-* **Tools:** C/C++, Python, MATLAB, CAN, CANape, CANalyzer, dSPACE, Code Generation, TCP/IP Networking.
-
-#### Research Engineer (Autonomous Driving - Planning and Controls)
-**Ford Motor Company**, Dearborn, MI | *Jan 2021 – Jun 2022*
-
-* Research in advanced controls and planning; designed low-speed path planning and control algorithms for autonomous parallel parking, auto-hitch, nudge maneuvers, state machines, and V2V localization/collision-avoidance.
-* Designed and implemented a **continuous curvature-based path planner** and **nonlinear rear-wheel feedback lateral controller** for auto-hitch and parallel parking (L2 autonomy).
-* Created state machines for complex state transitions and management during parking and auto-hitch maneuvers.
-* Created **Vehicle-to-Vehicle (V2V) networking** and TCP/IP UDP data interfaces for real-time data streaming between multiple Ford vehicles for localization and collision avoidance.
-* Conducted testing, validation, and refinement of autonomous driving features.
-* **Tools:** Simulink, Stateflow, ROS, C/C++, TCP/IP, dSPACE, CANape, CANalyzer.
-
-#### Senior Controls Engineer, Autonomy
-**The Drone Racing League**, New York, NY | *Jul 2019 – Jan 2021*
-
-* Led research, development, and implementation of control algorithms for autonomous drones, focusing on position and attitude control for trajectory tracking.
-* Designed and implemented advanced control strategies, including **State-Dependent LQR, LQR/LQG, Nonlinear PID, Adaptive Control (MRAC), Geometric Control, and MPC**, ensuring robust trajectory tracking and attitude stabilization.
-* Developed and analyzed trajectory tracking performance using ROS/Gazebo and PX4 SITL simulations with PID and LQR controllers.
-* Implemented solvers for **Algebraic Riccati Equations in C++** to support control algorithm development.
-* Conducted real-time flight testing, algorithm testing, and debugging for autonomous flight.
-* **Tools:** C/C++, ROS, PX4, Gazebo, Eigen, CMake, Python, MATLAB/Simulink.
-#### Robotics Controls Engineer - March 2019- July 2019 
-  * Deka Research and Development, Manchester, NH 
-  * Autonomous robots, offline path planning, and controls
-  
-####  Updates 
-- 
-
-####  Other Interests 
-![Winter run in Hoboken](../images/running_hoboken_osu.jpg)
-
-
-![May the drones be with you](../images/IMG_drl.JPG)
-
-
-#### Email: thapasandesh1@gmail.com
+**Contact:** thapasandesh1@gmail.com

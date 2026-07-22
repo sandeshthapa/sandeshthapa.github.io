@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Graduate Teaching Assistant — Mechatronics Design (MAE 4733)"
 collection: teaching
-type: "MAE Mechatronics"
-permalink: /teaching/2017-Fall-teaching-1
+type: "Undergraduate course"
+permalink: /teaching/mae-4733-mechatronics
 venue: "School of Mechanical & Aerospace Engineering, Oklahoma State University"
-date: 2017-08-01
-location: "Stillwater , Oklahoma"
+date: 2018-08-01
+location: "Stillwater, Oklahoma"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching assistant for Mechatronics Design (MAE 4733): lab instruction and grading for a class of 28 students.
