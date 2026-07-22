@@ -12,7 +12,8 @@ I am a **robotics and controls research engineer** working on **safety-critical 
 
 I am interested in developing both the **theory** and the **computational tools** for **provably safe control and planning** — composing actuator-level safety architectures with state-space safety filters (control barrier functions, Hamilton–Jacobi reachability) and validating them on real aerial and ground robots under embedded, real-time constraints.
 
-I am currently a **Visiting Researcher** in the ETAIC Lab at the **University of Texas at Arlington** (host: Dr. H. Eric Tseng, NAE Member), and I am applying to PhD programs in controls and robotics.
+
+I am currently a **Visiting Researcher** in the [ETAIC Lab](https://etaic.github.io/) at the **University of Texas at Arlington** (host: Dr. H. Eric Tseng, NAE Member), and I am applying to PhD programs in controls and robotics. My current research develops safety-aware algorithms for robotics, sitting at the intersection of nonlinear control theory, reinforcement learning, and robotics.
 
 **Research interests**
 - Safety-critical control and motion planning of autonomous and robotic systems
