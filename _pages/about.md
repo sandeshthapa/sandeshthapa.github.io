@@ -30,6 +30,20 @@ See my [publications](/publications/), [research](/research/), and [CV](/cv/) fo
 * Auto-generated table of contents
 {:toc}
 
+
+### Safety-Critical Control (CBFs and Safety Certificates)
+
+**Safety-critical control — current directions**
+- Safety certificates for low-level control loops 
+- Safety-critical control for multi-agent systems
+- Safe control in the presence of uncertainty
+
+![Safety PID control](../images/safe_pid.png)
+![Safety-embedded PID control](../images/safe_control_v4.png)
+![Safety-embedded PID control](../images/safe_coop.png)
+![Control barrier functions](../images/CBFS.png)
+
+
 ### Autonomous Quadrotor UAV Control
 ![UAV Autonomy](../images/drone_achitecture.png)
 
@@ -157,15 +171,6 @@ Research at Ford Motor Company, Research & Advanced Engineering (advisor: Dr. H.
   <source src="../images/pure_pursuit.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-### Safety-Critical Control (CBFs and Safety Certificates)
-
-#### Control Barrier Functions
-![Control barrier functions](../images/CBFS.png)
-
-#### Safety-Embedded PID Control for Robotics and Automation
-Discrete-event guard architecture wrapping legacy PID loops as a safety layer, with provable input-boundedness, integrator-boundedness, and bumpless-transfer properties (in preparation for IEEE RA-L).
-![Safety-embedded PID control](../images/pidcontrolexploded.png)
 
 ---
 
