@@ -10,7 +10,7 @@ redirect_from:
 
 I am a **robotics and controls research engineer** working on **safety-critical control and motion planning for robots and multi-agent systems**. My work pairs rigorous control theory with hands-on validation on real hardware, driven by one conviction: **safety is the central bottleneck in deploying physical AI** — for a single robot and, even more so, for teams of them that must stay safe while coordinating.
 
-A recurring gap in safety-critical control lies between **formal, state-space guarantees** — control barrier functions, Hamilton–Jacobi reachability, predictive safety filters — which assume an analytical model and idealized actuators, and the **actuator-level methods** used in real deployments — input bounding, anti-windup, bumpless transfer — which carry no such guarantees. Real robots, bound by hard safety limits and by uncertain or partially known dynamics, need both — and the challenge compounds when many agents share an environment. I am interested in **guaranteeing end-to-end safety, from a single robot to a multi-agent team, using reduced-order or uncertain models — under bounded model uncertainty and unmodeled dynamics — at a computational cost light enough for real-time embedded hardware**.
+A recurring gap in safety-critical autonomy lies between **formal, state-space guarantees** — control barrier functions, Hamilton–Jacobi reachability, predictive safety filters — which assume an analytical model and idealized actuators, and the algomriths used in real deployments often lack those emperical model but has access to data. Real robots, bound by hard safety limits and by uncertain or partially known dynamics, need both — and the challenge compounds when many agents share an environment. I am interested in **guaranteeing end-to-end safety, from a single robot to a multi-agent team, using reduced-order or uncertain models — under bounded model uncertainty and unmodeled dynamics — at a computational cost light enough for real-time embedded hardware**.
 
 **Research interests**
 - Safety-critical control and motion planning for robots and multi-agent systems
@@ -34,12 +34,12 @@ See my [publications](/publications/), [research](/research/), and [CV](/cv/) fo
 
 **Safety-critical control — current directions**
 - Safety certificates for low-level control loops 
-- Safety-critical control for multi-agent systems
+- Safety-critical control and planning for multi-agent systems
 - Safe control in the presence of uncertainty
 
 ![Safety PID control](../images/safe_pid.png)
 ![Safety-embedded PID control](../images/safe_control_v4.png)
-![Safety-embedded PID control](../images/safe_coop.png)
+<!-- ![Safety-embedded PID control](../images/safe_coop.png) -->
 ![Control barrier functions](../images/CBFS.png)
 
 
