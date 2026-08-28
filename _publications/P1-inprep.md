@@ -1,8 +1,9 @@
 ---
-title: "A Safety-Aware State-Machine Wrapper for Legacy PID Loops with a Head-to-Head Comparison to Control Barrier Function Safety Filters"
+title: "A Practical State-Machine Based Event PID Controller"
 collection: publications
-date: 2026-06-01
-venue: 'In preparation for IEEE Robotics and Automation Letters (RA-L)'
-citation: 'Thapa S. "A Safety-Aware State-Machine Wrapper for Legacy PID Loops with a Head-to-Head Comparison to Control Barrier Function Safety Filters." <i>In preparation for IEEE Robotics and Automation Letters (RA-L)</i>.'
+permalink: /publication/2026-acc-statemachine-event-pid
+date: 2026-09-25
+venue: 'In preparation for the American Control Conference (ACC) 2027'
+citation: 'Thapa S. "A Practical State-Machine Based Event PID Controller." <i>In preparation for the American Control Conference (ACC) 2027</i>.'
 ---
-A discrete-event guard architecture that wraps legacy PID loops as a safety layer with provable input-boundedness, integrator-boundedness, and bumpless-transfer properties, compared head-to-head against CBF-QP safety filters on systems lacking a clean analytical invariant set.
+An event-triggered PID in which the hold is a state of a finite state machine rather than a compensation term, so the integral term is held whenever the command is held and no maximum sampling period is required. The hold band is calibrated from the actuator deadband and the sensor resolution measured in a single constant-command field test, requiring no plant model. On the published benchmarks of Durand and Marchand the controller reproduces the reference update counts exactly and matches the hybrid event-based PID at identical gains, with a further reduction in updates under measurement noise. Includes a field deployment of the code-generated controller on production hardware.
