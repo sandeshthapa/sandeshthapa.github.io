@@ -41,7 +41,7 @@ See my [publications](/publications/), [research](/research/), and [CV](/cv/) fo
 
 ### Safety Control, Planning and Learning 
 
-**Safety-critical control — current directions**
+<!-- **Safety-critical control — current directions** -->
 - Safety control and RL in presense of uncertainty. 
 - Safety-critical control and planning for multi-agent systems
 <!-- - Safe control in the presence of uncertainty -->
