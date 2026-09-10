@@ -39,17 +39,23 @@ See my [publications](/publications/), [research](/research/), and [CV](/cv/) fo
 {:toc}
 
 
-### Safety-Critical Control (CBFs and Safety Certificates - Current Research)
+### Safety Control, Planning and Learning 
 
 **Safety-critical control — current directions**
-- Safety certificates for low-level control loops 
+- Safety certificates 
 - Safety-critical control and planning for multi-agent systems
 - Safe control in the presence of uncertainty
 
-![Safety PID control](../images/safe_pid.png)
+<!-- ![Safety PID control](../images/safe_pid.png) -->
 ![Safety-embedded PID control](../images/safe_control_v4.png)
+
+<video width="100%" controls autoplay loop muted>
+  <source src="../images/Hybrid_Astar_Plannar_Ctrl_v5.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <!-- ![Safety-embedded PID control](../images/safe_coop.png) -->
-![Control barrier functions](../images/CBFS.png)
+<!-- ![Control barrier functions](../images/CBFS.png) -->
 
 
 ### Autonomous Quadrotor UAV Control
