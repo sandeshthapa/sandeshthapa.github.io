@@ -39,7 +39,7 @@ See my [publications](/publications/), [research](/research/), and [CV](/cv/) fo
 {:toc}
 
 
-### Safety Control, Planning and Learning 
+### Safety Control, Planning and Learning - Current Research 
 
 <!-- **Safety-critical control — current directions** -->
 - Safety control and RL in presense of uncertainty. 
