@@ -25,7 +25,7 @@ I am currently a **Visiting Researcher** in the [ETAIC Lab](https://etaic.github
 **Updates** 
 - Started Visiting Researcher Position at at [ETAIC Lab](https://etaic.github.io)
 - **C1.** Thapa S., Qi Z. *A Practical State-Machine Based Event PID Controller.* Submitted to the American Control Conference (ACC) 2027.
-- **C2.** Thapa S., Tseng E. *Certified Handoff Between Global Search and Local Planning for Automated Parallel Parking.* In preparation for submission to the American Control Conference (ACC) 2027.
+- **C2.** Thapa S., Tseng E. *A Feasible Entry Set for the Handoff between Global and Local Planners in Parallel Parking.* In preparation for submission to the American Control Conference (ACC) 2027.
 - **T1.** Thapa S. *A Comparative Tutorial on Autonomous Quadrotor Trajectory Tracking Control: PID, State-Dependent LQR, Geometric SE(3), and Nonlinear Adaptive Control.* In preparation for arXiv release.
 
 
