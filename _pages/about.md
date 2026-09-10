@@ -20,7 +20,7 @@ A recurring gap in safety-critical autonomy lies between **formal, state-space g
 - Nonlinear, adaptive, and optimal control; control barrier functions and reachability
 - Learning and decision making under uncertainty; trajectory optimization and planning
 
-I am currently a **Visiting Researcher** in the [ETAIC Lab](https://etaic.github.io) at the University of Texas at Arlington (host: Dr. H. Eric Tseng, NAE Member), and I am applying to PhD programs in controls and robotics.
+I am currently a **Visiting Researcher** in the [ETAIC Lab](https://etaic.github.io) at the University of Texas at Arlington (host: Dr. H. Eric Tseng, )
 
 **Updates** 
 - Started Visiting Researcher Position at at [ETAIC Lab](https://etaic.github.io)
@@ -39,7 +39,7 @@ See my [publications](/publications/), [research](/research/), and [CV](/cv/) fo
 {:toc}
 
 
-### Safety Control, Planning and Learning - Current Research 
+### Safety Control, Planning and Learning - Current Research in collobration with Dr. Eric Tseng at UTA
 
 <!-- **Safety-critical control — current directions** -->
 - Safety control and RL in presense of uncertainty. 
