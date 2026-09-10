@@ -16,7 +16,7 @@ A recurring gap in safety-critical autonomy lies between **formal, state-space g
 **Research interests**
 - Safety-critical control and motion planning for robots and multi-agent systems
 - Distributed and decentralized control, estimation, and multi-vehicle coordination
-- Composing actuator-level and state-space safety guarantees under model uncertainty
+<!-- - Composing actuator-level and state-space safety guarantees under model uncertainty -->
 - Nonlinear, adaptive, and optimal control; control barrier functions and reachability
 - Learning and decision making under uncertainty; trajectory optimization and planning
 
