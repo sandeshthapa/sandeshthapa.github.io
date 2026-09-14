@@ -11,7 +11,7 @@ redirect_from:
 I am a **robotics and controls research engineer** working on **safety-critical control and motion planning for robots and multi-agent systems**. My work pairs rigorous control theory with hands-on validation on real hardware, driven by one conviction: **safety is the central bottleneck in deploying physical AI** — for a single robot as well as team of robots. I believe the best ideas comes by bridging the gap between theory and
 application - turning mathematical models into robust, practical systems that move the world toward full autonomy.
 
-A recurring gap in safety-critical autonomy lies between **formal, state-space guarantees** — control barrier functions, Hamilton–Jacobi reachability, predictive safety filters, which assume an analytical model and idealized actuators, and the algomriths used in real deployments often lack those emperical model but has access to data. Real robots, bound by hard safety limits and by uncertain or partially known dynamics, need both — and the challenge compounds when many agents share an environment. I am interested in **guaranteeing end-to-end safety, from a single robot to a multi-agent team, using reduced-order or uncertain models — under bounded model uncertainty and unmodeled dynamics — at a computational cost light enough for real-time embedded hardware**.
+A recurring gap in safety-critical autonomy lies between **formal, state-space guarantees**, control barrier functions, Hamilton–Jacobi reachability, predictive safety filters, which assume an analytical model and idealized actuators, and the algomriths used in real deployments often lack those emperical model but has access to data. Real robots, bound by hard safety limits and by uncertain or partially known dynamics, need both and the challenge increases when many agents share an environment. I am interested in **guaranteeing end-to-end safety, from a single robot to a multi-agent team, using reduced-order or uncertain models, under bounded model uncertainty and unmodeled dynamics — at a computational cost light enough for real-time embedded hardware**.
 
 **Research interests**
 - Safety-critical control and motion planning for robots and multi-agent systems
@@ -23,14 +23,12 @@ A recurring gap in safety-critical autonomy lies between **formal, state-space g
 I am currently a **Visiting Researcher** in the [ETAIC Lab](https://etaic.github.io) at the University of Texas at Arlington (host: Dr. H. Eric Tseng, )
 
 **Updates** 
-- Started Visiting Researcher Position at at [ETAIC Lab](https://etaic.github.io)
-- **C1.** Thapa S., Qi Z. *A Practical State-Machine Based Event PID Controller.* Submitted to the American Control Conference (ACC) 2027.
+- Started Visiting Researcher Position at at [ETAIC Lab](https://etaic.github.io) , working in the inteesection of safe control and RL for robotics. 
+- **C1.** Thapa S., Qi Z. *A Modular State-Machine Based Event PID Controller.* Submitted to the American Control Conference (ACC) 2027.
 - **C2.** Thapa S., Tseng E. *A Feasible Entry Set for the Handoff between Global and Local Planners in Parallel Parking.* In preparation for submission to the American Control Conference (ACC) 2027.
 - **T1.** Thapa S. *A Comparative Tutorial on Autonomous Quadrotor Trajectory Tracking Control: PID, State-Dependent LQR, Geometric SE(3), and Nonlinear Adaptive Control.* In preparation for arXiv release.
 
-
-
-See my [publications](/publications/), [research](/research/), and [CV](/cv/) for details.
+You can view my [publications](/publications/), [research](/research/), and [CV](/cv/) for details.
 ---
 
 ## Selected Research & Projects
@@ -55,7 +53,7 @@ See my [publications](/publications/), [research](/research/), and [CV](/cv/) fo
 </video>
 
 <!-- ![Safety-embedded PID control](../images/safe_coop.png) -->
-<!-- ![Control barrier functions](../images/CBFS.png) -->
+![Control barrier functions](../images/CBFS.png)
 
 
 ### Autonomous Quadrotor UAV Control
