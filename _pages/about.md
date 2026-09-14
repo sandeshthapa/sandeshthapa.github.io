@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a **robotics and controls research engineer** working on **safety-critical control and motion planning for robots and multi-agent systems**. My work pairs rigorous control theory with hands-on validation on real hardware, driven by one conviction: **safety is the central bottleneck in deploying physical AI** — for a single robot as well as team of robots. I believe the best ideas comes by bridging the gap between theory and
+I am a **robotics and controls research engineer** working on **safety-critical control and motion planning for robots and multi-agent systems**. My work pairs rigorous control theory with hands-on validation on real hardware, driven by one conviction: **safety is the central bottleneck in deploying physical AI** ,  for a single robot as well as multi-robot systems. I believe the best ideas comes by bridging the gap between theory and
 application - turning mathematical models into robust, practical systems that move the world toward full autonomy.
 
 A recurring gap in safety-critical autonomy lies between **formal, state-space guarantees**, control barrier functions, Hamilton–Jacobi reachability, predictive safety filters, which assume an analytical model and idealized actuators, and the algomriths used in real deployments often lack those emperical model but has access to data. Real robots, bound by hard safety limits and by uncertain or partially known dynamics, need both and the challenge increases when many agents share an environment. I am interested in **guaranteeing end-to-end safety, from a single robot to a multi-agent team, using reduced-order or uncertain models, under bounded model uncertainty and unmodeled dynamics — at a computational cost light enough for real-time embedded hardware**.
+
+**Note: AI was not used to create these section**
 
 **Research interests**
 - Safety-critical control and motion planning for robots and multi-agent systems
