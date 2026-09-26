@@ -17,7 +17,7 @@ Modern autonomous systems sit at an intersection of two established yet challeng
 
 Real systems often reside at the intersection of these two methods and are dynamic. Can we design robot behaviors that can adapt dynamically to changing events while using learning-based methods for vision and planning? The answer is often a hybrid solution, developing novel constrained-optimization-based planning and control methods that can adapt dynamically and can also gurantee safety.
 
-My current research lies here, leveraging the mathematical properties of the dynamical system and robust methods that utilize real-time data and online learning for safe control and planning of autonomous systems.
+**My current research lies here, leveraging the mathematical properties of the dynamical system and robust methods that utilize real-time data and online learning for safe control and planning of autonomous systems.**
 
 **Research interests**
 - Constrained control and optimization for motion planning, control and coordination 
