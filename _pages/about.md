@@ -28,55 +28,6 @@ My current research lies here, leveraging the mathematical properties of the dyn
 **Application Areas**: dynamic systems, UAVs, autonomous vehicles, multi-agents and robots
 
 **Note : I did not use AI to create these sections**
-<!-- My current research interests lies in this intersection, leveraging mathermical property of system to design safe and reliable algoriths  -->
- <!-- pro  of ocntrol and optimization theory to desing dynamic systems to design safe and robust algorithms that a -->
-
-
-
-
-
-
-<!-- The best ideas come from closing the gap between theory and application — turning mathematical models into robust, practical systems that move the field toward full autonomy. Having worked across academia and industry research, I bring a blend of theoretical depth and hands-on engineering experience and insight in designing algorithms that are safe, robust, and mathematically sound from first principles, while remaining practical to implement on real systems. -->
-
-<!-- Modern autonomous systems sit at an open problem between two established paradigms. Model-based methods — control barrier functions, Hamilton-Jacobi reachability, predictive safety filters, formal methods — provide strong guarantees, but typically assume an analytical model and idealized actuators and sensors. Reinforcement-learning-based methods are data-driven and adapt to complex environments, but cannot guarantee safety. Real systems operate in the space between these two paradigms: governed by semi-empirical models, yet with access to real-time data that neither paradigm fully exploits. My research sits in this intersection, developing optimization-based control and planning methods that incorporate learning-based tools while preserving formal safety guarantees. -->
-
-<!-- I am interested in **guaranteeing end-to-end safety, from a single robot to a multi-agent team, using reduced-order or uncertain models, under bounded model uncertainty and unmodeled dynamics — at a computational cost light enough for real-time embedded hardware**. -->
-
-<!-- **Note: AI was not used to create this section** -->
-
-<!-- **Research interests** -->
-<!-- - Constrained control and optimization for motion planning and control, including decentralized decision making for dynamic systems -->
-<!-- - Safe control and learning -->
-<!-- - Decision-making and risk assessment under uncertainty -->
-<!-- - Distributed and decentralized control, estimation, and multi-vehicle coordination -->
-
-
-<!-- I am a **robotics and controls research engineer** working on **safety-critical control and motion planning for robots and multi-agent systems**. My work pairs rigorous control theory with hands-on validation on real hardware, driven by one conviction, **safety is the central bottleneck in deploying physical AI** ,  for a single robot as well as multi-robot systems. I believe the best ideas comes by bridging the gap between theory and
-application - turning mathematical models into robust, practical systems that move the world toward full autonomy. Having worked in academia and industry research, I bringg in an unique blend of theory and experience with deep theoritical and practical insights in design reliable agorithms from ground up that are safe, robust , intuitue to implement and are thus mathematically sound. 
-
- <!-- in reliable algorithms design that are safe,robust  intuitive and mathematically sound.  -->
-
- <!-- Modern autonomous systems face following challenges: 
- - Many model based design including barrier functions, Hamiton-Jacobi reachablity, predicitve filters, formal methods often relies on analytical model and idealized actuators and sensors. 
- - Reinforcement Learning based techniques are data based but cann't gurantees system safety. 
- - Real system often work in the intersection of semi imperitcal model and has access to real time data. 
- - My research interests lies in this intersection using novel optimization based control and planning methods that leverage learning based tools and provides systems safeyty.  --> -->
-
-<!-- A recurring gap in safety-critical autonomy lies between **formal, state-space guarantees**, control barrier functions, Hamilton–Jacobi reachability, predictive safety filters, which assume an analytical model and idealized actuators, and the algomriths used in real deployments often work in the intersection of semi-imperical model with access to data. Real robots, bound by hard safety limits and by uncertain or partially known dynamics, need both and the challenge increases when many agents share an environment.  -->
-
-<!-- I am interested in **guaranteeing end-to-end safety, from a single robot to a multi-agent team, using reduced-order or uncertain models, under bounded model uncertainty and unmodeled dynamics — at a computational cost light enough for real-time embedded hardware**. -->
-
-<!-- **Note: AI was not used to create these section** -->
-
-<!-- **Research interests** -->
-<!-- - constraint control and optimization for motion planning and control , decentrailzed control 
-- Safe control and learning 
-- Decision making under uncertainity. 
-<!-- - Safety-critical control and motion planning for robots and multi-agent systems -->
-<!-- - Distributed and decentralized control, estimation, and multi-vehicle coordination -->
-<!-- - Composing actuator-level and state-space safety guarantees under model uncertainty -->
-<!-- - Nonlinear, adaptive, and optimal control; control barrier functions and reachability -->
-<!-- - Learning and decision making under uncertainty; trajectory optimization and planning --> -->
 
 I am currently a **Visiting Researcher** in the [ETAIC Lab](https://etaic.github.io) at the University of Texas at Arlington (host: Dr. H. Eric Tseng, )
 
