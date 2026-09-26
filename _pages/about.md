@@ -95,13 +95,15 @@ You can view my [publications](/publications/), [research](/research/), and [CV]
 {:toc}
 
 
-### Safety Control, Planning and Learning - Current Research in collobration with Dr. Eric Tseng at UTA
+## Current Research Projects 
 
-<!-- **Safety-critical control — current directions** -->
-- Safety control and RL in presense of uncertainty. 
-- Safety-critical control and planning for multi-agent systems
-<!-- - Safe control in the presence of uncertainty -->
+### Multi-Agent RL and Safe Control — Current Research in Collaboration with Dr. Eric Tseng at UTA
+- Multi-agent reinforcement learning for cooperative tasks, with a safety layer based on time-varying control barrier functions; implemented on Hugging Face-compatible microbot platforms, extending prior lab work on Unitree humanoid whole-body control.
 
+### Control and Planning 
+
+- Constrained Control and Planning for autonomous vehicles, certified handoff from a sampling-based planner to a local low-level geometric planner.
+- Learning-based event-PID with safety guarantees.
 <!-- ![Safety PID control](../images/safe_pid.png) -->
 ![Safety-embedded PID control](../images/safe_control_v4.png)
 
